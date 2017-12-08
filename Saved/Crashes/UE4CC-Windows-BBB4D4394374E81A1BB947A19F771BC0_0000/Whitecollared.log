@@ -1,0 +1,1069 @@
+﻿Log file open, 12/05/17 22:17:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Whitecollared
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(770374482) SRandInit(770374482).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 8.764520
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.06-02.17.23:417][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-02.17.23:417][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.06-02.17.23:745][  0]LogInit: Computer: CG-LENOVO
+[2017.12.06-02.17.23:745][  0]LogInit: User: cgdiaz16
+[2017.12.06-02.17.23:745][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.06-02.17.23:745][  0]LogInit: High frequency timer resolution =2.343751 MHz
+[2017.12.06-02.17.23:745][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.06-02.17.23:745][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.06-02.17.23:745][  0]LogMemory: Process Physical Memory: 271.90 MB used, 271.90 MB peak
+[2017.12.06-02.17.23:745][  0]LogMemory: Process Virtual Memory: 270.40 MB used, 270.40 MB peak
+[2017.12.06-02.17.23:745][  0]LogMemory: Physical Memory: 2809.66 MB used,  5242.25 MB free, 8051.91 MB total
+[2017.12.06-02.17.23:745][  0]LogMemory: Virtual Memory: 679.06 MB used,  5242.25 MB free, 134217728.00 MB total
+[2017.12.06-02.17.25:139][  0]LogInit: Using OS detected language (en-US).
+[2017.12.06-02.17.25:139][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.06-02.17.25:573][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.06-02.17.26:717][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.06-02.17.44:262][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.06-02.17.44:275][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.12.06-02.17.44:275][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.12.06-02.17.44:833][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.06-02.17.44:833][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.06-02.17.44:833][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.06-02.17.44:838][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.06-02.17.44:850][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.06-02.17.44:850][  0]LogWindows: EnumDisplayDevices:
+[2017.12.06-02.17.44:850][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.12.06-02.17.44:850][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:850][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:850][  0]LogWindows:    3. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:850][  0]LogWindows:    4. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows:    5. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows:    6. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows:    7. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows:    8. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows:    9. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows:    10. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.12.06-02.17.44:851][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.06-02.17.44:851][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.12.06-02.17.44:851][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.06-02.17.44:851][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.06-02.17.44:851][  0]LogRHI: Texture pool is 1498 MB (70% of 2140 MB)
+[2017.12.06-02.17.44:896][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.06-02.17.46:179][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.12.06-02.17.46:588][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Intermediate/Shaders/WorkingDirectory/11124/).
+[2017.12.06-02.17.46:588][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cgd16/AppData/Local/Temp/UnrealShaderWorkingDir/14B3E135422EAF97D85BC591BAC58A16/'.
+[2017.12.06-02.17.46:662][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.06-02.18.17:124][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.06-02.18.17:218][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.06-02.18.17:298][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.06-02.18.17:445][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.06-02.18.17:615][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.06-02.18.17:749][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.06-02.18.17:863][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.06-02.18.17:921][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.06-02.18.17:983][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.06-02.18.18:218][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.06-02.18.18:290][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.06-02.18.18:354][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.06-02.18.18:464][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.06-02.18.18:549][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.06-02.18.18:746][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.06-02.18.18:746][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.06-02.18.18:853][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.06-02.18.18:927][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.06-02.18.19:633][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.06-02.18.19:700][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.06-02.18.19:799][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.06-02.18.19:879][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.06-02.18.19:947][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.06-02.18.20:105][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.06-02.18.20:105][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.06-02.18.23:801][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.06-02.18.25:639][  0]LogDerivedDataCache: Loaded boot cache 1.74s 78MB C:/Users/cgd16/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-02.18.25:639][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cgd16/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.06-02.18.25:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.06-02.18.25:639][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.06-02.18.25:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.06-02.18.25:639][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.06-02.18.25:767][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.06-02.18.25:810][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cgd16/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.06-02.18.25:944][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.06-02.18.26:134][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.06-02.18.26:312][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-02.18.26:317][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-02.18.52:762][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-02.19.00:277][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.06-02.19.00:467][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.06-02.19.00:484][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.06-02.19.00:484][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.06-02.19.00:484][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.06-02.19.00:484][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.06-02.19.01:263][  0]LogNetVersion: Whitecollared , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1028709350)
+[2017.12.06-02.19.05:066][  0]LogAssetRegistry: FAssetRegistry took 0.0564 seconds to start up
+[2017.12.06-02.19.28:382][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.577135 seconds
+[2017.12.06-02.19.28:453][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.06-02.19.28:453][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.06-02.19.28:453][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.06-02.19.28:534][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.06-02.20.14:838][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.06-02.20.14:888][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.06-02.20.19:177][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.06-02.20.22:355][  0]SourceControl: Source control is disabled
+[2017.12.06-02.20.22:393][  0]SourceControl: Source control is disabled
+[2017.12.06-02.20.22:621][  0]SourceControl: Source control is disabled
+[2017.12.06-02.20.22:768][  0]SourceControl: Source control is disabled
+[2017.12.06-02.20.25:338][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.06-02.20.25:899][  0]LogOcInput: OculusInput pre-init called
+[2017.12.06-02.20.28:828][  0]LogEngine: Initializing Engine...
+[2017.12.06-02.20.29:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.06-02.20.36:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.06-02.20.36:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.06-02.20.38:335][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.06-02.20.39:046][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.20.39:146][  0]LogInit: FAudioDevice initialized.
+[2017.12.06-02.20.40:294][  0]LogDerivedDataCache: Saved boot cache 1.15s 78MB C:/Users/cgd16/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-02.20.40:306][  0]LogInit: Texture streaming: Enabled
+[2017.12.06-02.20.41:460][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.06-02.20.43:404][  0]LogInit: Transaction tracking system initialized
+[2017.12.06-02.20.45:958][  0]BlueprintLog: New page: Editor Load
+[2017.12.06-02.20.52:997][  0]LocalizationService: Localization service is disabled
+[2017.12.06-02.20.59:489][  0]LogConsoleResponse: Display: 
+[2017.12.06-02.21.09:238][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/' took 0.07s
+[2017.12.06-02.21.09:238][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.06-02.21.09:238][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.06-02.21.09:254][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.06-02.21.18:156][  0]SourceControl: Source control is disabled
+[2017.12.06-02.21.18:517][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-02.21.18:580][  0]LightingResults: New page: Lighting Build
+[2017.12.06-02.21.19:074][  0]MapCheck: New page: Map Check
+[2017.12.06-02.21.19:074][  0]LightingResults: New page: Lighting Build
+[2017.12.06-02.21.39:922][  0]LogMaterial: Missing cached shader map for material PigBoss_Mouth_Open, compiling. 
+[2017.12.06-02.21.43:930][  0]LogMaterial: Missing cached shader map for material PigBoss_Eyes_Inhale, compiling. 
+[2017.12.06-02.21.50:421][  0]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.21.53:039][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-02.21.53:641][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-02.21.53:755][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 112.891ms to complete.
+[2017.12.06-02.21.53:755][  0]LogFileHelpers: Loading map 'White_Collared' took 35.433
+[2017.12.06-02.22.17:040][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Whitecollared
+[2017.12.06-02.22.17:040][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.06-02.22.17:040][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.06-02.22.17:040][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.06-02.22.17:040][  0]LogTemp: BranchPath = CG-LENOVO/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = CG-LENOVO/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.06-02.22.17:040][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.06-02.22.21:734][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\cgd16\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.06-02.22.21:734][  0]LogCollectionManager: Loaded 0 collections in 0.037770 seconds
+[2017.12.06-02.22.24:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Collections/' took 0.01s
+[2017.12.06-02.22.24:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/Developers/cgdiaz16/Collections/' took 0.01s
+[2017.12.06-02.22.24:535][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/Collections/' took 0.01s
+[2017.12.06-02.22.24:535][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.06-02.22.24:902][  0]LogContentBrowser: Native class hierarchy populated in 0.1168 seconds. Added 2363 classes and 519 folders.
+[2017.12.06-02.22.25:388][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.06-02.22.38:144][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.06-02.22.39:024][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.06-02.22.41:752][  0]LogSlate: Took 0.033898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-02.22.41:798][  0]LogSlate: Took 0.035305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.06-02.22.41:888][  0]LogSlate: Took 0.028054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.06-02.22.42:803][  0]LogRenderer: Reallocating scene render targets to support 1004x464 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-02.22.45:613][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.06-02.22.45:614][  0]LogLoad: (Engine Initialization) Total time: 372.38 seconds
+[2017.12.06-02.22.45:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.06-02.22.45:614][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.06-02.22.45:898][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.06-02.22.46:422][  0]LogSlate: Took 0.185028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-02.22.46:900][  3]LogAssetRegistry: Asset discovery search completed in 221.8564 seconds
+[2017.12.06-02.22.46:904][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.06-02.22.46:904][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2017.12.06-02.22.47:013][  4]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-02.22.49:218][ 95]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-02.22.50:626][ 95]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2017.12.06-02.22.53:768][ 95]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.06-02.22.55:184][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.22.56:347][ 95]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.06-02.22.58:192][ 95]LogSlate: Took 0.233510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.06-02.22.59:165][ 96]LogSlate: Took 0.028905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.06-02.24.36:968][829]BlueprintLog: New page: Compile FoodPiece_BP
+[2017.12.06-02.24.44:646][214]LogRenderer: Reallocating scene render targets to support 1004x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-02.24.48:711][334]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2017.12.06-02.24.48:809][334]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.06-02.24.50:599][412]LogSlate: Took 0.030009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.06-02.25.08:260][ 50]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.26.40:875][972]Cmd: TRANSACTION UNDO
+[2017.12.06-02.26.40:875][972]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.26.41:036][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.26.47:024][315]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.26.47:193][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.26.47:574][333]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.26.47:740][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.26.48:227][361]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.26.48:374][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.26.48:943][394]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.26.49:107][394]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.27.01:998][149]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.27.02:178][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.27.03:038][196]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-02.27.03:192][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-02.27.37:539][ 21]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.29.18:288][744]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.29.31:700][511]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.30.34:125][150]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.30.48:870][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.06-02.30.49:036][817]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.06-02.30.52:121][817]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.06-02.32.01:653][285]BlueprintLog: New page: Compile FoodPiece_BP
+[2017.12.06-02.33.41:872][148]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.34.02:427][760]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.34.13:184][ 21]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.34.14:840][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.34.15:863][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.15:886][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.34.15:928][ 56]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:34:15 PM)
+[2017.12.06-02.34.15:928][ 56]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.34.15:979][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051451s)
+[2017.12.06-02.34.15:980][ 56]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.34.15:980][ 56]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2017.12.06-02.34.15:981][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.052862s)
+[2017.12.06-02.34.16:042][ 56]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.34.16:061][ 56]LogInit: FAudioDevice initialized.
+[2017.12.06-02.34.16:239][ 56]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.34.16:263][ 56]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.34.16
+[2017.12.06-02.34.16:349][ 56]LogWorld: Bringing up level for play took: 0.108930
+[2017.12.06-02.34.16:523][ 56]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.12.06-02.34.16:551][ 56]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.489
+[2017.12.06-02.34.16:580][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.16:777][ 56]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-02.34.20:137][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.20:330][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.52:129][862]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.34.53:105][878]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.34.53:154][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.53:155][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.34.53:155][878]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:34:53 PM)
+[2017.12.06-02.34.53:155][878]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.34.53:166][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011031s)
+[2017.12.06-02.34.53:167][878]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.34.53:168][878]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2017.12.06-02.34.53:168][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.012636s)
+[2017.12.06-02.34.53:205][878]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.34.53:223][878]LogInit: FAudioDevice initialized.
+[2017.12.06-02.34.53:269][878]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.34.53:274][878]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.34.53
+[2017.12.06-02.34.53:275][878]LogWorld: Bringing up level for play took: 0.004998
+[2017.12.06-02.34.53:281][878]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.219
+[2017.12.06-02.34.53:282][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.59:493][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.34.59:623][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.03:421][ 39]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.35.03:466][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.03:467][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.35.03:512][ 39]LogPlayLevel: [PlayLevel] Compiling Doveman-Anims before play...
+[2017.12.06-02.35.03:751][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2017.12.06-02.35.03:751][ 39]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:35:03 PM)
+[2017.12.06-02.35.03:751][ 39]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.35.03:758][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006960s)
+[2017.12.06-02.35.03:759][ 39]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.35.03:759][ 39]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2017.12.06-02.35.03:759][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008165s)
+[2017.12.06-02.35.03:788][ 39]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.35.03:804][ 39]LogInit: FAudioDevice initialized.
+[2017.12.06-02.35.03:851][ 39]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.35.03:856][ 39]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.35.03
+[2017.12.06-02.35.03:857][ 39]LogWorld: Bringing up level for play took: 0.005265
+[2017.12.06-02.35.03:863][ 39]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.801
+[2017.12.06-02.35.03:864][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.15:282][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.15:407][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.43:301][880]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.35.43:352][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.43:353][880]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.35.43:408][880]LogPlayLevel: [PlayLevel] Compiling Doveman-Anims before play...
+[2017.12.06-02.35.43:647][880]LogPlayLevel: PlayLevel: Blueprint regeneration took 294 ms (1 blueprints)
+[2017.12.06-02.35.43:647][880]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:35:43 PM)
+[2017.12.06-02.35.43:648][880]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.35.43:655][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006954s)
+[2017.12.06-02.35.43:655][880]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.35.43:656][880]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2017.12.06-02.35.43:656][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008282s)
+[2017.12.06-02.35.43:685][880]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.35.43:702][880]LogInit: FAudioDevice initialized.
+[2017.12.06-02.35.43:749][880]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.35.43:754][880]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.35.43
+[2017.12.06-02.35.43:755][880]LogWorld: Bringing up level for play took: 0.005701
+[2017.12.06-02.35.43:763][880]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.7
+[2017.12.06-02.35.43:763][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.46:841][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.35.46:968][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.36.54:199][508]LogSavePackage: Save=314.32ms
+[2017.12.06-02.36.54:199][508]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_Auto10253DAF449F8DAD9C3A60EADF6FFC253.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto1.umap'
+[2017.12.06-02.36.54:207][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto1.umap
+[2017.12.06-02.36.54:213][508]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.607
+[2017.12.06-02.36.54:213][508]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.607
+[2017.12.06-02.36.54:216][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Doveman] ([1] browsable assets)...
+[2017.12.06-02.36.54:281][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/Doveman.Doveman]
+[2017.12.06-02.36.54:281][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Doveman]
+[2017.12.06-02.36.54:695][508]LogSavePackage: Save=358.88ms
+[2017.12.06-02.36.54:695][508]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman_Auto141B4445343D8173C2431F49D34BFD6D7.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman_Auto1.uasset'
+[2017.12.06-02.36.54:723][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman_Auto1.uasset
+[2017.12.06-02.36.54:725][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims] ([1] browsable assets)...
+[2017.12.06-02.36.54:765][508]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_WhiteCollared/Mesh_Tester/Doveman-Anims.Doveman-Anims]
+[2017.12.06-02.36.54:765][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims]
+[2017.12.06-02.36.55:235][508]LogSavePackage: Save=426.02ms
+[2017.12.06-02.36.55:235][508]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman-Anims_Auto1F8BA7E064D5A1AFBCDAA5491C7692EEF.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims_Auto1.uasset'
+[2017.12.06-02.36.55:246][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims_Auto1.uasset
+[2017.12.06-02.36.55:246][508]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton] ([1] browsable assets)...
+[2017.12.06-02.36.55:246][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton]
+[2017.12.06-02.36.55:307][508]LogSavePackage: Save=21.17ms
+[2017.12.06-02.36.55:307][508]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveMan2-79_Skeleton_Auto1EF42C4BA47050A1A8F14FEBE713D4CFC.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton_Auto1.uasset'
+[2017.12.06-02.36.55:327][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton_Auto1.uasset
+[2017.12.06-02.36.55:327][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Grab] ([1] browsable assets)...
+[2017.12.06-02.36.55:368][508]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_WhiteCollared/Mesh_Tester/Grab.Grab]
+[2017.12.06-02.36.55:368][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Grab]
+[2017.12.06-02.36.55:431][508]LogSavePackage: Save=22.57ms
+[2017.12.06-02.36.55:431][508]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Grab_Auto1782910C44EB3B1CB74FB9DA77706AB75.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Grab_Auto1.uasset'
+[2017.12.06-02.36.55:452][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Grab_Auto1.uasset
+[2017.12.06-02.36.55:453][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP] ([1] browsable assets)...
+[2017.12.06-02.36.55:510][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP]
+[2017.12.06-02.36.55:510][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP]
+[2017.12.06-02.36.55:530][508]LogSlate: Took 0.019003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-02.36.55:619][508]LogSavePackage: Save=41.38ms
+[2017.12.06-02.36.55:619][508]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/FoodPiece_BP_Auto10817C4964E9051CC2A4F2EB276F248AA.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP_Auto1.uasset'
+[2017.12.06-02.36.55:621][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP_Auto1.uasset
+[2017.12.06-02.36.55:621][508]LogFileHelpers: Auto-saving content packages took 1.407
+[2017.12.06-02.42.27:048][544]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.42.28:979][565]LogSavePackage: Save=551.28ms
+[2017.12.06-02.42.28:981][565]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman-AnimsEC998DB1493E964D5D73A992D78EEB29.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Mesh_Tester/Doveman-Anims.uasset'
+[2017.12.06-02.42.28:996][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Mesh_Tester/Doveman-Anims.uasset
+[2017.12.06-02.42.29:441][577]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.42.29:490][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.42.29:490][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.42.29:491][577]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:42:29 PM)
+[2017.12.06-02.42.29:491][577]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.42.29:503][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011925s)
+[2017.12.06-02.42.29:504][577]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.42.29:504][577]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2017.12.06-02.42.29:505][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.013923s)
+[2017.12.06-02.42.29:543][577]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.42.29:564][577]LogInit: FAudioDevice initialized.
+[2017.12.06-02.42.29:616][577]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.42.29:620][577]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.42.29
+[2017.12.06-02.42.29:622][577]LogWorld: Bringing up level for play took: 0.005048
+[2017.12.06-02.42.29:630][577]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.567
+[2017.12.06-02.42.29:630][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.42.33:024][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.42.33:220][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.43.34:183][137]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.43.36:857][190]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.43.36:909][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.43.36:909][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.43.36:910][190]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:43:36 PM)
+[2017.12.06-02.43.36:910][190]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.43.36:921][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011478s)
+[2017.12.06-02.43.36:922][190]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.43.36:922][190]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2017.12.06-02.43.36:923][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.012990s)
+[2017.12.06-02.43.36:958][190]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.43.36:976][190]LogInit: FAudioDevice initialized.
+[2017.12.06-02.43.37:021][190]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.43.37:026][190]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.43.37
+[2017.12.06-02.43.37:027][190]LogWorld: Bringing up level for play took: 0.005588
+[2017.12.06-02.43.37:033][190]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.029
+[2017.12.06-02.43.37:034][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.43.44:675][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.43.44:778][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.44.41:015][616]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.44.42:400][647]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.44.42:453][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.44.42:453][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.44.42:453][647]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:44:42 PM)
+[2017.12.06-02.44.42:453][647]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.44.42:465][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011084s)
+[2017.12.06-02.44.42:465][647]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.44.42:466][647]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2017.12.06-02.44.42:466][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.012669s)
+[2017.12.06-02.44.42:500][647]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.44.42:520][647]LogInit: FAudioDevice initialized.
+[2017.12.06-02.44.42:568][647]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.44.42:573][647]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.44.42
+[2017.12.06-02.44.42:574][647]LogWorld: Bringing up level for play took: 0.005162
+[2017.12.06-02.44.42:580][647]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.482
+[2017.12.06-02.44.42:581][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.44.49:443][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.44.49:538][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.19:577][452]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.45.19:628][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.19:629][452]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.45.19:673][452]LogPlayLevel: [PlayLevel] Compiling Doveman-Anims before play...
+[2017.12.06-02.45.19:919][452]LogPlayLevel: PlayLevel: Blueprint regeneration took 291 ms (1 blueprints)
+[2017.12.06-02.45.19:920][452]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:45:19 PM)
+[2017.12.06-02.45.19:920][452]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.45.19:927][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007343s)
+[2017.12.06-02.45.19:928][452]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.45.19:928][452]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2017.12.06-02.45.19:928][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008513s)
+[2017.12.06-02.45.19:957][452]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.45.19:975][452]LogInit: FAudioDevice initialized.
+[2017.12.06-02.45.20:023][452]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.45.20:028][452]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.45.20
+[2017.12.06-02.45.20:029][452]LogWorld: Bringing up level for play took: 0.005068
+[2017.12.06-02.45.20:035][452]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.973
+[2017.12.06-02.45.20:036][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.24:763][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.24:864][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.28:724][598]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.45.28:773][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.28:774][598]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.45.28:820][598]LogPlayLevel: [PlayLevel] Compiling Doveman-Anims before play...
+[2017.12.06-02.45.29:057][598]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2017.12.06-02.45.29:057][598]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:45:29 PM)
+[2017.12.06-02.45.29:057][598]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.45.29:064][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007083s)
+[2017.12.06-02.45.29:065][598]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.45.29:065][598]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2017.12.06-02.45.29:065][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008251s)
+[2017.12.06-02.45.29:092][598]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.45.29:110][598]LogInit: FAudioDevice initialized.
+[2017.12.06-02.45.29:158][598]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.45.29:162][598]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.45.29
+[2017.12.06-02.45.29:163][598]LogWorld: Bringing up level for play took: 0.004886
+[2017.12.06-02.45.29:170][598]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.108
+[2017.12.06-02.45.29:171][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.32:748][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.32:849][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.39:610][798]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.45.39:661][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.45.39:662][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.45.39:662][798]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:45:39 PM)
+[2017.12.06-02.45.39:662][798]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.45.39:673][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010469s)
+[2017.12.06-02.45.39:674][798]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.45.39:674][798]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2017.12.06-02.45.39:674][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.011790s)
+[2017.12.06-02.45.39:710][798]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.45.39:727][798]LogInit: FAudioDevice initialized.
+[2017.12.06-02.45.39:776][798]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.45.39:781][798]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.45.39
+[2017.12.06-02.45.39:782][798]LogWorld: Bringing up level for play took: 0.005663
+[2017.12.06-02.45.39:788][798]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.725
+[2017.12.06-02.45.39:788][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.46.26:107][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.46.26:223][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.46.35:250][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.46.35:300][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.46.35:301][611]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.46.35:355][611]LogPlayLevel: [PlayLevel] Compiling Doveman-Anims before play...
+[2017.12.06-02.46.35:590][611]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2017.12.06-02.46.35:590][611]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:46:35 PM)
+[2017.12.06-02.46.35:591][611]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.46.35:598][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007826s)
+[2017.12.06-02.46.35:599][611]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.46.35:599][611]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2017.12.06-02.46.35:600][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009056s)
+[2017.12.06-02.46.35:631][611]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.46.35:649][611]LogInit: FAudioDevice initialized.
+[2017.12.06-02.46.35:694][611]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.46.35:699][611]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.46.35
+[2017.12.06-02.46.35:701][611]LogWorld: Bringing up level for play took: 0.006001
+[2017.12.06-02.46.35:706][611]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.644
+[2017.12.06-02.46.35:707][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.46.41:740][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.46.41:838][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.14:801][451]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.47.16:531][483]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.47.16:584][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.16:584][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.47.16:584][483]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:47:16 PM)
+[2017.12.06-02.47.16:584][483]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.47.16:595][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010439s)
+[2017.12.06-02.47.16:596][483]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.47.16:596][483]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2017.12.06-02.47.16:596][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.011938s)
+[2017.12.06-02.47.16:635][483]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.47.16:654][483]LogInit: FAudioDevice initialized.
+[2017.12.06-02.47.16:702][483]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.47.16:707][483]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.47.16
+[2017.12.06-02.47.16:708][483]LogWorld: Bringing up level for play took: 0.006046
+[2017.12.06-02.47.16:714][483]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.348
+[2017.12.06-02.47.16:715][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.30:166][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.30:287][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.37:002][793]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.47.37:052][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.37:053][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.47.37:053][793]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:47:37 PM)
+[2017.12.06-02.47.37:053][793]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.47.37:063][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010060s)
+[2017.12.06-02.47.37:064][793]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.47.37:065][793]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2017.12.06-02.47.37:065][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.011439s)
+[2017.12.06-02.47.37:098][793]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.47.37:115][793]LogInit: FAudioDevice initialized.
+[2017.12.06-02.47.37:164][793]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.47.37:169][793]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.47.37
+[2017.12.06-02.47.37:170][793]LogWorld: Bringing up level for play took: 0.006042
+[2017.12.06-02.47.37:176][793]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.114
+[2017.12.06-02.47.37:176][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.44:879][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.47.44:972][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.49.23:180][294]BlueprintLog: New page: Compile FoodPiece_BP
+[2017.12.06-02.49.23:192][294]LogBlueprint: Warning: [Compiler FoodPiece_BP] Could not find the function 'Grabby Grabby' called from  Grabby Grabby
+[2017.12.06-02.49.23:758][294]LogBlueprint: Warning: [Compiler FoodPiece_BP] [1970.53] Compile of FoodPiece_BP successful, but with 1 Warning(s) [in 577 ms] (/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP)
+[2017.12.06-02.49.28:853][527]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.49.30:796][580]BlueprintLog: New page: Compile FoodPiece_BP
+[2017.12.06-02.50.00:821][ 88]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.50.00:960][ 88]LogBlueprint: Error: [Compiler Doveman] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.12.06-02.50.00:960][ 88]LogBlueprint: Error: [Compiler Doveman] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.12.06-02.50.01:546][ 88]LogBlueprint: Warning: [Compiler Doveman] [2008.32] Compile of Doveman failed. 2 Fatal Issue(s) 0 Warning(s) [in 724 ms] (/Game/_WhiteCollared/Mesh_Tester/Doveman.Doveman)
+[2017.12.06-02.50.57:170][805]BlueprintLog: New page: Compile Doveman
+[2017.12.06-02.50.59:381][867]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.50.59:500][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.50.59:500][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.50.59:500][867]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:50:59 PM)
+[2017.12.06-02.50.59:501][867]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.50.59:508][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007866s)
+[2017.12.06-02.50.59:509][867]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.50.59:509][867]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2017.12.06-02.50.59:510][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009194s)
+[2017.12.06-02.50.59:544][867]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.50.59:561][867]LogInit: FAudioDevice initialized.
+[2017.12.06-02.50.59:608][867]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.50.59:613][867]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.50.59
+[2017.12.06-02.50.59:614][867]LogWorld: Bringing up level for play took: 0.005574
+[2017.12.06-02.50.59:620][867]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.558
+[2017.12.06-02.50.59:620][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.51.10:201][ 34]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	FoodPiece_BP_C /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared:PersistentLevel.FoodPiece_BP_C_61
+	Function /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP_C:ExecuteUbergraph_FoodPiece_BP:0000
+[2017.12.06-02.51.10:201][ 34]PIE: Error: Infinite Loop detected in  FoodPiece_BP , asserted during  DestroyActor with the following  Call Stack
+[2017.12.06-02.51.10:206][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.51.10:372][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.52.26:306][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.52.26:381][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.52.26:381][804]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.52.26:487][804]LogPlayLevel: [PlayLevel] Compiling FoodPiece_BP before play...
+[2017.12.06-02.52.27:146][804]LogPlayLevel: PlayLevel: Blueprint regeneration took 764 ms (1 blueprints)
+[2017.12.06-02.52.27:146][804]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:52:27 PM)
+[2017.12.06-02.52.27:146][804]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.52.27:154][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008059s)
+[2017.12.06-02.52.27:155][804]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.52.27:155][804]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2017.12.06-02.52.27:155][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009681s)
+[2017.12.06-02.52.27:191][804]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.52.27:211][804]LogInit: FAudioDevice initialized.
+[2017.12.06-02.52.27:264][804]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.52.27:270][804]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.52.27
+[2017.12.06-02.52.27:272][804]LogWorld: Bringing up level for play took: 0.007283
+[2017.12.06-02.52.27:281][804]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.219
+[2017.12.06-02.52.27:282][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.52.32:862][870]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	FoodPiece_BP_C /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared:PersistentLevel.FoodPiece_BP_C_61
+	Function /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP_C:ExecuteUbergraph_FoodPiece_BP:0000
+[2017.12.06-02.52.32:862][870]PIE: Error: Infinite Loop detected in  FoodPiece_BP , asserted during  DestroyActor with the following  Call Stack
+[2017.12.06-02.52.32:893][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.52.32:984][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.53.10:735][ 39]LogSavePackage: Save=272.84ms
+[2017.12.06-02.53.10:735][ 39]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_Auto253AA00DE468AF6E2A089A7944CBF2597.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto2.umap'
+[2017.12.06-02.53.10:738][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto2.umap
+[2017.12.06-02.53.10:741][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.410
+[2017.12.06-02.53.10:741][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.410
+[2017.12.06-02.53.10:745][ 39]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Doveman] ([1] browsable assets)...
+[2017.12.06-02.53.10:787][ 39]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/Doveman.Doveman]
+[2017.12.06-02.53.10:787][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Doveman]
+[2017.12.06-02.53.11:136][ 39]LogSavePackage: Save=308.25ms
+[2017.12.06-02.53.11:136][ 39]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman_Auto2401487B94F3F09E763ADF7A409120546.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman_Auto2.uasset'
+[2017.12.06-02.53.11:138][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman_Auto2.uasset
+[2017.12.06-02.53.11:140][ 39]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims] ([1] browsable assets)...
+[2017.12.06-02.53.11:179][ 39]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_WhiteCollared/Mesh_Tester/Doveman-Anims.Doveman-Anims]
+[2017.12.06-02.53.11:180][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims]
+[2017.12.06-02.53.11:659][ 39]LogSavePackage: Save=437.72ms
+[2017.12.06-02.53.11:659][ 39]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman-Anims_Auto2CCA2EF004E686E4C3DACCBB1D9CA6BAB.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims_Auto2.uasset'
+[2017.12.06-02.53.11:662][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims_Auto2.uasset
+[2017.12.06-02.53.11:663][ 39]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP] ([1] browsable assets)...
+[2017.12.06-02.53.11:703][ 39]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP]
+[2017.12.06-02.53.11:703][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP]
+[2017.12.06-02.53.11:795][ 39]LogSavePackage: Save=47.50ms
+[2017.12.06-02.53.11:795][ 39]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/FoodPiece_BP_Auto2F0BBEC674303D3144CB1F7A1B2E2CA35.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP_Auto2.uasset'
+[2017.12.06-02.53.11:797][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP_Auto2.uasset
+[2017.12.06-02.53.11:797][ 39]LogFileHelpers: Auto-saving content packages took 1.054
+[2017.12.06-02.54.17:976][165]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.54.18:037][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.54.18:037][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.54.18:037][165]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:54:18 PM)
+[2017.12.06-02.54.18:037][165]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.54.18:046][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008254s)
+[2017.12.06-02.54.18:048][165]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.54.18:048][165]LogPlayLevel: PIE: World Init took: (0.001838s)
+[2017.12.06-02.54.18:048][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010590s)
+[2017.12.06-02.54.18:085][165]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.54.18:103][165]LogInit: FAudioDevice initialized.
+[2017.12.06-02.54.18:152][165]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.54.18:157][165]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.54.18
+[2017.12.06-02.54.18:158][165]LogWorld: Bringing up level for play took: 0.005282
+[2017.12.06-02.54.18:166][165]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.103
+[2017.12.06-02.54.18:166][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.54.23:007][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.54.23:113][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.55.21:701][168]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.55.23:422][213]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.55.23:469][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.55.23:469][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-02.55.23:469][213]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:55:23 PM)
+[2017.12.06-02.55.23:470][213]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.55.23:482][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012459s)
+[2017.12.06-02.55.23:483][213]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.55.23:483][213]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2017.12.06-02.55.23:484][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.014152s)
+[2017.12.06-02.55.23:520][213]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.55.23:538][213]LogInit: FAudioDevice initialized.
+[2017.12.06-02.55.23:587][213]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.55.23:591][213]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.55.23
+[2017.12.06-02.55.23:592][213]LogWorld: Bringing up level for play took: 0.005072
+[2017.12.06-02.55.23:599][213]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.537
+[2017.12.06-02.55.23:600][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.55.27:889][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.55.27:993][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.56.49:275][874]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.56.49:381][874]LogBlueprint: Warning: [Compiler Doveman-Anims] Grab to BS_Doveman-Anims  will never be taken, please connect something to  Can Enter Transition
+[2017.12.06-02.56.49:598][874]LogBlueprint: Warning: [Compiler Doveman-Anims] [2416.37] Compile of Doveman-Anims successful, but with 1 Warning(s) [in 322 ms] (/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims.Doveman-Anims)
+[2017.12.06-02.57.43:690][598]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-02.58.14:419][317]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.58.14:451][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.14:451][317]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.58.14:459][317]LogPlayLevel: [PlayLevel] Compiling FoodPiece_BP before play...
+[2017.12.06-02.58.15:165][317]LogPlayLevel: PlayLevel: Blueprint regeneration took 714 ms (1 blueprints)
+[2017.12.06-02.58.15:165][317]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:58:15 PM)
+[2017.12.06-02.58.15:166][317]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.58.15:173][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007565s)
+[2017.12.06-02.58.15:174][317]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.58.15:174][317]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2017.12.06-02.58.15:175][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009086s)
+[2017.12.06-02.58.15:204][317]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.58.15:223][317]LogInit: FAudioDevice initialized.
+[2017.12.06-02.58.15:271][317]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.58.15:276][317]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.58.15
+[2017.12.06-02.58.15:277][317]LogWorld: Bringing up level for play took: 0.005142
+[2017.12.06-02.58.15:282][317]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.22
+[2017.12.06-02.58.15:283][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.19:997][402]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	FoodPiece_BP_C /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared:PersistentLevel.FoodPiece_BP_C_61
+	Function /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP_C:ExecuteUbergraph_FoodPiece_BP:0000
+[2017.12.06-02.58.19:997][402]PIE: Error: Infinite Loop detected in  FoodPiece_BP , asserted during  Delay with the following  Call Stack
+[2017.12.06-02.58.20:007][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.20:132][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.29:854][982]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-02.58.29:894][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.29:895][982]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-02.58.29:902][982]LogPlayLevel: [PlayLevel] Compiling FoodPiece_BP before play...
+[2017.12.06-02.58.30:759][982]LogPlayLevel: PlayLevel: Blueprint regeneration took 864 ms (1 blueprints)
+[2017.12.06-02.58.30:759][982]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 6:58:30 PM)
+[2017.12.06-02.58.30:759][982]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-02.58.30:766][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006803s)
+[2017.12.06-02.58.30:767][982]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-02.58.30:767][982]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2017.12.06-02.58.30:767][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008250s)
+[2017.12.06-02.58.30:801][982]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-02.58.30:819][982]LogInit: FAudioDevice initialized.
+[2017.12.06-02.58.30:862][982]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-02.58.30:866][982]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-22.58.30
+[2017.12.06-02.58.30:868][982]LogWorld: Bringing up level for play took: 0.005699
+[2017.12.06-02.58.30:872][982]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.81
+[2017.12.06-02.58.30:873][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.35:047][ 54]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	FoodPiece_BP_C /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared:PersistentLevel.FoodPiece_BP_C_61
+	Function /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP_C:ExecuteUbergraph_FoodPiece_BP:0000
+[2017.12.06-02.58.35:048][ 54]PIE: Error: Infinite Loop detected in  FoodPiece_BP , asserted during  Delay with the following  Call Stack
+[2017.12.06-02.58.35:058][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-02.58.35:173][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.00.18:663][ 72]BlueprintLog: New page: Compile FoodPiece_BP
+[2017.12.06-03.00.19:958][ 93]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-03.00.20:004][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.00.20:004][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-03.00.20:005][ 93]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 7:00:20 PM)
+[2017.12.06-03.00.20:005][ 93]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-03.00.20:014][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009147s)
+[2017.12.06-03.00.20:015][ 93]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-03.00.20:016][ 93]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2017.12.06-03.00.20:016][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010862s)
+[2017.12.06-03.00.20:049][ 93]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-03.00.20:070][ 93]LogInit: FAudioDevice initialized.
+[2017.12.06-03.00.20:114][ 93]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-03.00.20:119][ 93]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-23.00.20
+[2017.12.06-03.00.20:121][ 93]LogWorld: Bringing up level for play took: 0.006768
+[2017.12.06-03.00.20:127][ 93]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.065
+[2017.12.06-03.00.20:128][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.00.36:802][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.00.36:946][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.01.33:747][770]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-03.01.33:789][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.01.33:790][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-03.01.33:790][770]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 7:01:33 PM)
+[2017.12.06-03.01.33:790][770]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-03.01.33:798][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007835s)
+[2017.12.06-03.01.33:799][770]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-03.01.33:799][770]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2017.12.06-03.01.33:799][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009488s)
+[2017.12.06-03.01.33:834][770]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-03.01.33:852][770]LogInit: FAudioDevice initialized.
+[2017.12.06-03.01.33:911][770]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-03.01.33:916][770]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-23.01.33
+[2017.12.06-03.01.33:917][770]LogWorld: Bringing up level for play took: 0.005395
+[2017.12.06-03.01.33:931][770]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.868
+[2017.12.06-03.01.33:931][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.01.41:293][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.01.41:510][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.32:007][893]BlueprintLog: New page: Compile Doveman
+[2017.12.06-03.02.33:980][958]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-03.02.34:105][958]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.34:105][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-03.02.34:105][958]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 7:02:34 PM)
+[2017.12.06-03.02.34:105][958]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-03.02.34:112][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007297s)
+[2017.12.06-03.02.34:113][958]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-03.02.34:113][958]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2017.12.06-03.02.34:113][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008460s)
+[2017.12.06-03.02.34:145][958]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-03.02.34:163][958]LogInit: FAudioDevice initialized.
+[2017.12.06-03.02.34:207][958]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-03.02.34:212][958]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-23.02.34
+[2017.12.06-03.02.34:213][958]LogWorld: Bringing up level for play took: 0.005073
+[2017.12.06-03.02.34:218][958]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.156
+[2017.12.06-03.02.34:219][958]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.42:306][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.42:531][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.44:091][179]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-03.02.44:124][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.44:124][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-03.02.44:124][179]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 7:02:44 PM)
+[2017.12.06-03.02.44:124][179]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-03.02.44:132][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007357s)
+[2017.12.06-03.02.44:132][179]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-03.02.44:133][179]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2017.12.06-03.02.44:133][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008975s)
+[2017.12.06-03.02.44:168][179]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-03.02.44:185][179]LogInit: FAudioDevice initialized.
+[2017.12.06-03.02.44:247][179]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-03.02.44:252][179]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-23.02.44
+[2017.12.06-03.02.44:254][179]LogWorld: Bringing up level for play took: 0.005739
+[2017.12.06-03.02.44:267][179]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.796
+[2017.12.06-03.02.44:268][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.51:006][299]PIE: Warning: AttachTo: '/Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared:PersistentLevel.Doveman_C_0.Billboard' is not static  (in blueprint "Doveman"), cannot attach '/Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared:PersistentLevel.FoodPiece_BP_C_0.StaticMeshComponent0' which is static to it. Aborting.
+[2017.12.06-03.02.54:714][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.02.54:910][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.06.08:141][682]LogSavePackage: Save=20.33ms
+[2017.12.06-03.06.08:141][682]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/PutDown1A7EF4554D700D5D10B20BA90B659818.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Mesh_Tester/PutDown.uasset'
+[2017.12.06-03.06.08:147][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Mesh_Tester/PutDown.uasset
+[2017.12.06-03.06.21:090][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.12.06-03.06.21:133][ 12]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.12.06-03.06.21:846][ 12]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.06-03.06.45:494][558]LogSavePackage: Save=9.05ms
+[2017.12.06-03.06.45:494][558]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/PutDownB4F3E2174DA9D6F4FE1E2F9AC952BDE2.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Mesh_Tester/PutDown.uasset'
+[2017.12.06-03.06.45:499][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Mesh_Tester/PutDown.uasset
+[2017.12.06-03.07.40:549][ 59]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-03.08.54:715][948]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-03.08.54:825][948]LogBlueprint: Warning: [Compiler Doveman-Anims] PutDown to BS_Doveman-Anims  will never be taken, please connect something to  Can Enter Transition
+[2017.12.06-03.08.55:053][948]LogBlueprint: Warning: [Compiler Doveman-Anims] [3141.82] Compile of Doveman-Anims successful, but with 1 Warning(s) [in 337 ms] (/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims.Doveman-Anims)
+[2017.12.06-03.09.16:297][503]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-03.09.24:743][689]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-03.09.24:816][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.09.24:816][689]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-03.09.24:888][689]LogPlayLevel: [PlayLevel] Compiling Doveman before play...
+[2017.12.06-03.09.25:827][689]LogPlayLevel: [PlayLevel] Compiling FoodPiece_BP before play...
+[2017.12.06-03.09.26:474][689]LogPlayLevel: PlayLevel: Blueprint regeneration took 1658 ms (2 blueprints)
+[2017.12.06-03.09.26:475][689]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 7:09:26 PM)
+[2017.12.06-03.09.26:475][689]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-03.09.26:482][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007454s)
+[2017.12.06-03.09.26:483][689]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-03.09.26:483][689]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2017.12.06-03.09.26:484][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008716s)
+[2017.12.06-03.09.26:513][689]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-03.09.26:530][689]LogInit: FAudioDevice initialized.
+[2017.12.06-03.09.26:576][689]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-03.09.26:581][689]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-23.09.26
+[2017.12.06-03.09.26:583][689]LogWorld: Bringing up level for play took: 0.006062
+[2017.12.06-03.09.26:588][689]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.526
+[2017.12.06-03.09.26:589][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.09.33:460][776]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.09.33:564][776]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.10.21:883][717]LogSavePackage: Save=284.82ms
+[2017.12.06-03.10.21:883][717]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_Auto3AF73309F4CA6DE602BCF76A6AAE8BBAF.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto3.umap'
+[2017.12.06-03.10.21:886][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto3.umap
+[2017.12.06-03.10.21:889][717]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.441
+[2017.12.06-03.10.21:889][717]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.441
+[2017.12.06-03.10.21:893][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Doveman] ([1] browsable assets)...
+[2017.12.06-03.10.21:933][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/Doveman.Doveman]
+[2017.12.06-03.10.21:933][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Doveman]
+[2017.12.06-03.10.22:282][717]LogSavePackage: Save=308.74ms
+[2017.12.06-03.10.22:282][717]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman_Auto33D3C1FA24862653F6C0BFD8BC379A460.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman_Auto3.uasset'
+[2017.12.06-03.10.22:284][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman_Auto3.uasset
+[2017.12.06-03.10.22:286][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims] ([1] browsable assets)...
+[2017.12.06-03.10.22:323][717]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_WhiteCollared/Mesh_Tester/Doveman-Anims.Doveman-Anims]
+[2017.12.06-03.10.22:324][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims]
+[2017.12.06-03.10.22:686][717]LogSavePackage: Save=320.84ms
+[2017.12.06-03.10.22:686][717]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Doveman-Anims_Auto3D58AB8CD40B4FF73C9DCB4B1392B8B25.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims_Auto3.uasset'
+[2017.12.06-03.10.22:689][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Doveman-Anims_Auto3.uasset
+[2017.12.06-03.10.22:690][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton] ([1] browsable assets)...
+[2017.12.06-03.10.22:690][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton]
+[2017.12.06-03.10.22:737][717]LogSavePackage: Save=7.31ms
+[2017.12.06-03.10.22:737][717]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveMan2-79_Skeleton_Auto305DEFAE34A79D19259868681C8CA8059.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton_Auto3.uasset'
+[2017.12.06-03.10.22:795][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/DoveMan2-79_Skeleton_Auto3.uasset
+[2017.12.06-03.10.22:796][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/Grab] ([1] browsable assets)...
+[2017.12.06-03.10.22:835][717]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/_WhiteCollared/Mesh_Tester/Grab.Grab]
+[2017.12.06-03.10.22:835][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/Grab]
+[2017.12.06-03.10.22:900][717]LogSavePackage: Save=20.63ms
+[2017.12.06-03.10.22:900][717]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Grab_Auto3876C9EB145F59D1B1F9816AC4F2A15CA.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Grab_Auto3.uasset'
+[2017.12.06-03.10.22:901][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/Grab_Auto3.uasset
+[2017.12.06-03.10.22:902][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP] ([1] browsable assets)...
+[2017.12.06-03.10.22:939][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP.FoodPiece_BP]
+[2017.12.06-03.10.22:939][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP]
+[2017.12.06-03.10.23:065][717]LogSavePackage: Save=62.16ms
+[2017.12.06-03.10.23:065][717]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/FoodPiece_BP_Auto3B00D148A45AD2C7F33A6CC9B40F3A086.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP_Auto3.uasset'
+[2017.12.06-03.10.23:067][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/FoodPiece_BP_Auto3.uasset
+[2017.12.06-03.10.23:067][717]LogFileHelpers: Auto-saving content packages took 1.176
+[2017.12.06-03.10.54:730][422]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-03.11.52:088][727]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.06-03.11.56:872][875]BlueprintLog: New page: Compile Doveman-Anims
+[2017.12.06-03.13.00:454][586]BlueprintLog: New page: Compile Doveman
+[2017.12.06-03.14.10:581][ 37]BlueprintLog: New page: Compile Doveman
+[2017.12.06-03.14.12:198][ 66]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.12.06-03.14.12:311][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.14.12:311][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-03.14.12:311][ 66]PIE: New page: PIE session: White_Collared (Dec 5, 2017, 7:14:12 PM)
+[2017.12.06-03.14.12:311][ 66]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.06-03.14.12:319][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007741s)
+[2017.12.06-03.14.12:320][ 66]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.06-03.14.12:320][ 66]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2017.12.06-03.14.12:320][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009128s)
+[2017.12.06-03.14.12:352][ 66]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-03.14.12:371][ 66]LogInit: FAudioDevice initialized.
+[2017.12.06-03.14.12:418][ 66]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.06-03.14.12:423][ 66]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.05-23.14.12
+[2017.12.06-03.14.12:424][ 66]LogWorld: Bringing up level for play took: 0.005345
+[2017.12.06-03.14.12:429][ 66]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.633
+[2017.12.06-03.14.12:430][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.14.25:443][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.14.25:665][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.06-03.17.56:943][140]LogEditorTransaction: Undo Delete current selection
+[2017.12.06-03.17.57:117][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-03.18.13:485][971]LogUObjectBase: Warning: Object is not registered
+[2017.12.06-03.18.14:427][971]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.942 s
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: 
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: Stack: 
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080D41EA6 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080AE121A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080AFB826 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000007C2E2EB6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000007A7303AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000078933F0A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x00000000787C74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x00000000787CABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x00000000788F8275 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080037397 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000008003CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080279913 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080093484 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000008006B68C UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000008005D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000008053E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080531A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x00000000805403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x000000008052D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x00000000C10DB85D USER32.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x00000000C10DB1EF USER32.dll!UnknownFunction []
+[2017.12.06-03.18.14:427][971]LogOutputDevice: Error: [Callstack] 0x0000000080541516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x0000000024BA50C8 UE4Editor.exe!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x0000000024BB5430 UE4Editor.exe!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x0000000024BB54AA UE4Editor.exe!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x0000000024BC2379 UE4Editor.exe!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x0000000024BC3D57 UE4Editor.exe!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x00000000BF9E1FE4 KERNEL32.DLL!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: [Callstack] 0x00000000C1EBEF91 ntdll.dll!UnknownFunction []
+[2017.12.06-03.18.14:428][971]LogOutputDevice: Error: 
+[2017.12.06-03.18.14:428][971]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,1306 @@
+﻿Log file open, 11/07/17 22:28:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Whitecollared
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1747017438) SRandInit(1747017438).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.142094
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.08-02.28.56:031][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.08-02.28.56:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.08-02.28.56:274][  0]LogInit: Computer: CG-LENOVO
+[2017.11.08-02.28.56:274][  0]LogInit: User: cgd16
+[2017.11.08-02.28.56:274][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.08-02.28.56:274][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2017.11.08-02.28.56:328][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.08-02.28.56:339][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.08-02.28.56:339][  0]LogMemory: Process Physical Memory: 273.21 MB used, 273.21 MB peak
+[2017.11.08-02.28.56:339][  0]LogMemory: Process Virtual Memory: 271.27 MB used, 271.27 MB peak
+[2017.11.08-02.28.56:339][  0]LogMemory: Physical Memory: 2994.54 MB used,  5057.36 MB free, 8051.91 MB total
+[2017.11.08-02.28.56:339][  0]LogMemory: Virtual Memory: 641.91 MB used,  5057.36 MB free, 134217728.00 MB total
+[2017.11.08-02.28.57:985][  0]LogInit: Using OS detected language (en-US).
+[2017.11.08-02.28.57:985][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.08-02.28.58:553][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.08-02.28.59:866][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.08-02.29.13:377][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.08-02.29.13:398][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.11.08-02.29.13:398][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.11.08-02.29.13:399][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.08-02.29.13:399][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.08-02.29.13:399][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.08-02.29.13:433][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.08-02.29.13:442][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.08-02.29.13:442][  0]LogWindows: EnumDisplayDevices:
+[2017.11.08-02.29.13:442][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.11.08-02.29.13:443][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.08-02.29.13:443][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.11.08-02.29.13:443][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.08-02.29.13:443][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.11.08-02.29.13:443][  0]LogD3D11RHI:   Driver Version: 21.20.16.4627 (internal:21.20.16.4627, unified:21.20.16.4627)
+[2017.11.08-02.29.13:443][  0]LogD3D11RHI:      Driver Date: 3-9-2017
+[2017.11.08-02.29.13:443][  0]LogRHI: Texture pool is 1498 MB (70% of 2140 MB)
+[2017.11.08-02.29.13:449][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.08-02.29.13:784][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.11.08-02.29.13:978][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Intermediate/Shaders/WorkingDirectory/13560/).
+[2017.11.08-02.29.13:978][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cgd16/AppData/Local/Temp/UnrealShaderWorkingDir/4F5945F04ED581035F9CE092362EA0B8/'.
+[2017.11.08-02.29.13:984][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.08-02.29.24:967][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.08-02.29.25:053][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.08-02.29.25:143][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.08-02.29.25:229][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.08-02.29.25:367][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.08-02.29.25:479][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.08-02.29.25:602][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.08-02.29.25:722][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.08-02.29.25:830][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.08-02.29.25:907][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.08-02.29.25:969][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.08-02.29.26:036][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.08-02.29.26:106][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.08-02.29.26:174][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.08-02.29.26:414][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.08-02.29.26:414][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.08-02.29.26:591][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.08-02.29.26:648][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.08-02.29.27:078][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.08-02.29.27:137][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.08-02.29.27:208][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.08-02.29.27:318][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.08-02.29.27:381][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.08-02.29.27:490][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.08-02.29.27:490][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.08-02.29.29:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.08-02.29.31:222][  0]LogDerivedDataCache: Loaded boot cache 1.41s 78MB C:/Users/cgd16/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.08-02.29.31:222][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cgd16/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.08-02.29.31:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.08-02.29.31:222][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.08-02.29.31:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.08-02.29.31:222][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.08-02.29.31:347][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.08-02.29.31:360][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cgd16/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.08-02.29.31:516][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.08-02.29.31:546][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.08-02.29.31:701][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.08-02.29.31:701][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.08-02.29.44:619][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.08-02.29.48:093][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.08-02.29.48:217][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.08-02.29.48:227][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.08-02.29.48:227][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.08-02.29.48:227][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.08-02.29.48:227][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.08-02.29.49:065][  0]LogNetVersion: Whitecollared , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1028709350)
+[2017.11.08-02.29.52:511][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2017.11.08-02.30.09:764][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.354394 seconds
+[2017.11.08-02.30.09:772][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.08-02.30.09:772][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.08-02.30.09:772][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.08-02.30.09:935][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.08-02.31.00:826][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.08-02.31.01:089][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.08-02.31.10:263][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.08-02.31.22:692][  0]SourceControl: Source control is disabled
+[2017.11.08-02.31.22:703][  0]SourceControl: Source control is disabled
+[2017.11.08-02.31.23:327][  0]SourceControl: Source control is disabled
+[2017.11.08-02.31.24:431][  0]SourceControl: Source control is disabled
+[2017.11.08-02.31.33:457][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.08-02.31.35:379][  0]LogOcInput: OculusInput pre-init called
+[2017.11.08-02.31.43:171][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 3.02s
+[2017.11.08-02.31.44:192][  0]LogEngine: Initializing Engine...
+[2017.11.08-02.31.44:620][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.08-02.31.49:074][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.08-02.31.49:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.031 s
+[2017.11.08-02.31.53:124][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.08-02.31.54:472][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-02.31.54:712][  0]LogInit: FAudioDevice initialized.
+[2017.11.08-02.31.55:688][  0]LogDerivedDataCache: Saved boot cache 0.94s 78MB C:/Users/cgd16/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.08-02.31.55:705][  0]LogInit: Texture streaming: Enabled
+[2017.11.08-02.31.57:749][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.08-02.32.00:503][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.08-02.32.00:504][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.08-02.32.02:191][  0]LogInit: Transaction tracking system initialized
+[2017.11.08-02.32.06:982][  0]BlueprintLog: New page: Editor Load
+[2017.11.08-02.32.17:965][  0]LocalizationService: Localization service is disabled
+[2017.11.08-02.32.24:314][  0]LogConsoleResponse: Display: 
+[2017.11.08-02.32.40:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/' took 0.82s
+[2017.11.08-02.32.40:974][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.08-02.32.40:974][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.08-02.32.41:224][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.08-02.32.55:591][  0]SourceControl: Source control is disabled
+[2017.11.08-02.32.55:810][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-02.32.56:604][  0]LightingResults: New page: Lighting Build
+[2017.11.08-02.32.57:208][  0]MapCheck: New page: Map Check
+[2017.11.08-02.32.57:208][  0]LightingResults: New page: Lighting Build
+[2017.11.08-02.33.27:482][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.08-02.33.29:582][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-02.33.30:136][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-02.33.30:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 126.679ms to complete.
+[2017.11.08-02.33.30:262][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 34.481
+[2017.11.08-02.33.42:910][  0]LogCollectionManager: Loaded 0 collections in 0.033798 seconds
+[2017.11.08-02.33.43:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Collections/' took 0.01s
+[2017.11.08-02.33.43:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/Developers/cgd16/Collections/' took 0.01s
+[2017.11.08-02.33.43:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/Collections/' took 0.01s
+[2017.11.08-02.33.43:739][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.08-02.33.43:926][  0]LogContentBrowser: Native class hierarchy populated in 0.0814 seconds. Added 2363 classes and 519 folders.
+[2017.11.08-02.33.44:399][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.08-02.33.52:970][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.08-02.33.53:170][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.08-02.34.00:929][  0]LogSlate: Took 0.663108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.08-02.34.00:993][  0]LogSlate: Took 0.038833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.08-02.34.01:063][  0]LogSlate: Took 0.045045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.08-02.34.03:959][  0]LogRenderer: Reallocating scene render targets to support 1004x464 Format 10 NumSamples 1 (Frame:1).
+[2017.11.08-02.34.05:642][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.08-02.34.05:642][  0]LogLoad: (Engine Initialization) Total time: 333.26 seconds
+[2017.11.08-02.34.05:642][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.08-02.34.05:642][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.08-02.34.05:774][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.08-02.34.06:534][  0]LogSlate: Took 0.299387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-02.34.07:606][  3]LogAssetRegistry: Asset discovery search completed in 255.1177 seconds
+[2017.11.08-02.34.07:608][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.08-02.34.07:608][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2017.11.08-02.35.15:902][288]LogHttp: Warning: 00000187AF324E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-02.35.15:902][288]LogHttp: Warning: 00000187AF324E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-02.35.15:902][288]LogHttp: Warning: 00000187AF324E80: libcurl info message cache 1 (Closing connection 0)
+[2017.11.08-02.37.02:933][912]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-02.37.04:188][912]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-02.37.04:445][912]Cmd: MAP LOAD FILE="../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-02.37.04:447][912]LightingResults: New page: Lighting Build
+[2017.11.08-02.37.04:448][912]LoadErrors: New page: Loading map: White_Collared.umap
+[2017.11.08-02.37.04:557][912]MapCheck: New page: Map Check
+[2017.11.08-02.37.04:557][912]LightingResults: New page: Lighting Build
+[2017.11.08-02.37.05:443][912]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-02.37.05:543][912]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-02.37.05:614][912]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.911ms to complete.
+[2017.11.08-02.37.05:615][912]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.08-02.37.05:619][912]LogFileHelpers: Loading map 'White_Collared' took 1.191
+[2017.11.08-02.37.27:419][189]LogHttp: Warning: 000001878C3E1180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-02.37.27:419][189]LogHttp: Warning: 000001878C3E1180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-02.37.27:419][189]LogHttp: Warning: 000001878C3E1180: libcurl info message cache 1 (Closing connection 1)
+[2017.11.08-02.39.38:798][586]LogHttp: Warning: 000001878C3E0880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-02.39.38:798][586]LogHttp: Warning: 000001878C3E0880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-02.39.38:798][586]LogHttp: Warning: 000001878C3E0880: libcurl info message cache 1 (Closing connection 2)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: request failed, libcurl error: 35 (SSL connect error)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 0 (  Trying 2607:7700:0:2a:0:1:34ce:a156...)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 1 (  Trying 52.5.13.16...)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (2607:7700:0:2a:0:1:34ce:a156) port 443 (#3))
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.11.08-02.41.56:584][ 19]LogHttp: Warning: 000001878C3E1300: libcurl info message cache 8 (Closing connection 3)
+[2017.11.08-02.42.48:103][242]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx)
+[2017.11.08-02.42.48:308][242]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.08-02.42.48:308][242]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.11.08-02.42.48:308][242]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.11.08-02.42.48:308][242]LogFbx: ItemName: Model, ItemCount : 4
+[2017.11.08-02.42.48:308][242]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.08-02.42.48:393][242]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx
+[2017.11.08-02.42.48:540][242]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-02.42.59:301][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx)
+[2017.11.08-02.42.59:307][471]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.08-02.42.59:307][471]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.11.08-02.42.59:307][471]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.11.08-02.42.59:307][471]LogFbx: ItemName: Model, ItemCount : 4
+[2017.11.08-02.42.59:307][471]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.08-02.42.59:314][471]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx
+[2017.11.08-02.42.59:322][471]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-02.43.01:417][471]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx
+[2017.11.08-02.43.01:426][471]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-02.43.01:459][471]LogFbx: Warning: Triangulating static mesh Cube.001
+[2017.11.08-02.43.01:494][471]LogStaticMesh: Building static mesh DoveManCity_Cube_001...
+[2017.11.08-02.43.01:537][471]LogStaticMesh: Built static mesh [0.04s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.DoveManCity_Cube_001
+[2017.11.08-02.43.01:617][471]LogStaticMesh: Warning: DoveManCity_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.08-02.43.01:617][471]LogStaticMesh: Warning: DoveManCity_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.08-02.43.01:635][471]LogLinker: Can't find file '/Game/_WhiteCollared/Importer_Folder/NewFolder/Material'
+[2017.11.08-02.43.01:635][471]LogLinker: Can't find file '/Game/_WhiteCollared/Importer_Folder/NewFolder/Material'
+[2017.11.08-02.43.01:717][471]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.11.08-02.43.01:987][471]LogFbx: Warning: Triangulating static mesh Cube
+[2017.11.08-02.43.02:027][471]LogStaticMesh: Building static mesh DoveManCity_Cube...
+[2017.11.08-02.43.02:027][471]LogStaticMesh: Built static mesh [0.04s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube.DoveManCity_Cube
+[2017.11.08-02.43.02:028][471]LogStaticMesh: Warning: DoveManCity_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.08-02.43.02:028][471]LogStaticMesh: Warning: DoveManCity_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.08-02.43.02:069][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.08-02.43.02:069][471]FBXImport: Warning: DoveManCity_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.08-02.43.02:069][471]FBXImport: Warning: DoveManCity_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.08-02.43.02:069][471]FBXImport: Warning: DoveManCity_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.08-02.43.02:069][471]FBXImport: Warning: DoveManCity_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.08-02.43.07:825][540]LogActorFactory: Actor Factory created DoveManCity_Cube_001
+[2017.11.08-02.43.11:173][614]LogActorFactory: Actor Factory created DoveManCity_Cube_001
+[2017.11.08-02.43.14:051][662]Cmd: DELETE
+[2017.11.08-02.43.14:051][662]Cmd: ACTOR DELETE
+[2017.11.08-02.43.14:214][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.08-02.43.14:228][662]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.11.08-02.43.19:074][730]LogActorFactory: Actor Factory created DoveManCity_Cube_001
+[2017.11.08-02.43.19:075][730]LogActorFactory: Actor Factory created DoveManCity_Cube
+[2017.11.08-02.43.22:162][811]LogActorFactory: Actor Factory created DoveManCity_Cube_001
+[2017.11.08-02.43.22:186][811]LogActorFactory: Actor Factory created DoveManCity_Cube
+[2017.11.08-02.43.24:396][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.08-02.43.24:713][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-02.43.24:783][857]PIE: New page: PIE session: White_Collared (Nov 7, 2017, 6:43:24 PM)
+[2017.11.08-02.43.24:802][857]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.11.08-02.43.24:837][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034420s)
+[2017.11.08-02.43.24:838][857]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-02.43.24:838][857]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2017.11.08-02.43.24:838][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.035769s)
+[2017.11.08-02.43.24:877][857]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-02.43.24:897][857]LogInit: FAudioDevice initialized.
+[2017.11.08-02.43.25:085][857]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.11.08-02.43.25:185][857]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.11.07-22.43.25
+[2017.11.08-02.43.25:227][857]LogWorld: Bringing up level for play took: 0.042988
+[2017.11.08-02.43.25:673][857]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.11.08-02.43.26:287][857]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.202
+[2017.11.08-02.43.26:503][857]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.11.08-02.44.01:911][132]LogHttp: Warning: 0000018807A46F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-02.44.01:911][132]LogHttp: Warning: 0000018807A46F80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2017.11.08-02.44.01:911][132]LogHttp: Warning: 0000018807A46F80: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-02.44.01:911][132]LogHttp: Warning: 0000018807A46F80: libcurl info message cache 2 (Closing connection 4)
+[2017.11.08-02.44.17:149][290]LogSavePackage: Save=85.85ms
+[2017.11.08-02.44.17:149][290]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCity_CubeB5DE6C494EF4362DCB5173AF3BC04080.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube.uasset'
+[2017.11.08-02.44.17:156][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube.uasset
+[2017.11.08-02.44.22:815][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube)
+[2017.11.08-02.44.49:177][ 25]MapCheck: New page: Map Check
+[2017.11.08-02.44.49:202][ 25]LightingResults: New page: Lighting Build - Nov 7, 2017, 6:44:49 PM
+[2017.11.08-02.44.49:614][ 25]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.08-02.44.49:704][ 25]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.08-02.44.50:221][ 25]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.08-02.44.52:332][ 25]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.08-02.44.52:332][ 25]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13560
+[2017.11.08-02.44.56:240][ 25]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.08-02.44.56:240][ 25]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.08-02.44.56:240][ 25]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.08-02.44.56:240][ 25]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.08-02.44.56:240][ 25]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.08-02.44.56:240][ 25]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.08-02.44.56:790][ 25]LogEditorBuildUtils: Build time 0:07
+[2017.11.08-02.45.01:059][ 84]Job is a success!
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.036s
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport:      BrickData 70x5x5 = 0.0Mb
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport:          1: 28.6% covering 6.3% of volume
+[2017.11.08-02.45.01:348][ 85]LogVolumetricLightmapImport:          2: 64.3% covering 0.2% of volume
+[2017.11.08-02.45.01:580][ 85]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.11.08-02.45.01:580][ 85]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.11.08-02.45.01:580][ 85]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.08-02.45.01:580][ 85]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.08-02.45.01:758][ 85]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2017.11.08-02.45.01:758][ 85]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.11.08-02.45.02:161][ 85]Lightmass on CG-LENOVO: 2.49 sec total, 572 ms importing, 40 ms setup, 231 ms photons, 1.28 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 5.07 sec total, 503 ms processing.
+[2017.11.08-02.45.02:203][ 85]LogStaticLightingSystem: Illumination: 12.8 sec (189 ms encoding lightmaps, 182 ms encoding shadowmaps)
+[2017.11.08-02.45.02:203][ 85]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.08-02.45.02:203][ 85]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.08-02.45.03:210][ 85]DumpUnbuiltLightIteractions
+[2017.11.08-02.45.03:210][ 85]Lights with unbuilt interactions: 0
+[2017.11.08-02.45.03:210][ 85]
+[2017.11.08-02.45.03:210][ 85]Primitives with unbuilt interactions: 0
+[2017.11.08-02.45.03:222][ 86]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.08-02.45.03:222][ 86]MapCheck: New page: White_Collared - Nov 7, 2017, 6:45:03 PM
+[2017.11.08-02.45.03:222][ 86]MapCheck: Error: DoveManCity_Cube_8 Component is a static type but has invalid lightmap settings!  Indirect lighting will be black.  Common causes are lightmap resolution of 0, LightmapCoordinateIndex out of bounds. 
+[2017.11.08-02.45.03:351][ 86]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 129.383ms to complete.
+[2017.11.08-02.47.04:848][963]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.08-02.47.14:899][221]LogSavePackage: Save=195.85ms
+[2017.11.08-02.47.14:900][221]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_Auto1068B81F24F955F4BCE5D42A0729F4960.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto1.umap'
+[2017.11.08-02.47.14:901][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto1.umap
+[2017.11.08-02.47.14:912][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 1.014
+[2017.11.08-02.47.14:912][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.014
+[2017.11.08-02.47.14:938][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001] ([1] browsable assets)...
+[2017.11.08-02.47.14:976][221]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.DoveManCity_Cube_001]
+[2017.11.08-02.47.14:976][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001]
+[2017.11.08-02.47.15:000][221]LogSavePackage: Save=21.58ms
+[2017.11.08-02.47.15:000][221]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCity_Cube_001_Auto109EB99E240D73629884CDD92DEC6F121.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001_Auto1.uasset'
+[2017.11.08-02.47.15:002][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001_Auto1.uasset
+[2017.11.08-02.47.15:003][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/Material] ([1] browsable assets)...
+[2017.11.08-02.47.15:047][221]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_WhiteCollared/Importer_Folder/NewFolder/Material.Material]
+[2017.11.08-02.47.15:047][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/Material]
+[2017.11.08-02.47.15:071][221]LogSavePackage: Save=21.43ms
+[2017.11.08-02.47.15:071][221]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Material_Auto15C67F7BF4DB387DF7A4671B668AF59C3.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/Material_Auto1.uasset'
+[2017.11.08-02.47.15:072][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/Material_Auto1.uasset
+[2017.11.08-02.47.15:073][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_WhiteCollared/Maps/White_Collared_BuiltData] ([1] browsable assets)...
+[2017.11.08-02.47.15:073][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Maps/White_Collared_BuiltData]
+[2017.11.08-02.47.15:089][221]LogSavePackage: Save=12.52ms
+[2017.11.08-02.47.15:089][221]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_BuiltData_Auto15C8725424D935E73C195CFB47B5BC6D9.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_BuiltData_Auto1.uasset'
+[2017.11.08-02.47.15:090][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_BuiltData_Auto1.uasset
+[2017.11.08-02.47.15:090][221]LogFileHelpers: Auto-saving content packages took 0.176
+[2017.11.08-02.47.40:863][787]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.08-02.47.43:498][787]LogSavePackage: Save=19.06ms
+[2017.11.08-02.47.43:498][787]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCity_Cube_001D380601F4606E2490713FAAEC35F7B38.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.uasset'
+[2017.11.08-02.47.43:508][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.uasset
+[2017.11.08-02.47.43:568][787]LogSavePackage: Save=18.58ms
+[2017.11.08-02.47.43:568][787]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Material247BA96841E2D4C15744A5A06FEABBB5.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/Material.uasset'
+[2017.11.08-02.47.43:576][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/Material.uasset
+[2017.11.08-02.47.43:847][787]LogSavePackage: Save=168.85ms
+[2017.11.08-02.47.43:848][787]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared398DE3934A10A4864EB90FA668A63F58.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared.umap'
+[2017.11.08-02.47.43:859][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared.umap
+[2017.11.08-02.47.43:902][787]LogFileHelpers: Saving map 'White_Collared' took 0.326
+[2017.11.08-02.47.43:927][787]LogSavePackage: Save=22.16ms
+[2017.11.08-02.47.43:927][787]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_BuiltData55C8C9A84BF802108AD5A7A566E65B97.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared_BuiltData.uasset'
+[2017.11.08-02.47.43:930][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared_BuiltData.uasset
+[2017.11.08-02.47.43:931][787]Cmd: MAP LOAD FILE="../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-02.47.43:932][787]LightingResults: New page: Lighting Build
+[2017.11.08-02.47.43:933][787]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2017.11.08-02.47.43:934][787]MapCheck: New page: Map Check
+[2017.11.08-02.47.43:934][787]LightingResults: New page: Lighting Build
+[2017.11.08-02.47.44:069][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-02.47.44:128][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-02.47.44:200][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.92ms to complete.
+[2017.11.08-02.47.44:200][787]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.270
+[2017.11.08-02.48.39:252][106]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2017.11.08-02.49.35:521][562]TextureStreamingBuild: Display: Compiling optional shaders took 0.030 seconds.
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: request failed, libcurl error: 35 (SSL connect error)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x187af2fbfe8 [can pipeline])
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (64:ff9b::3436:8d4d) port 443 (#7))
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 3 (upload completely sent off: 769 out of 769 bytes)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 6 (Closing connection 7)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BE01E44-4050-DEAC-B02E-73BA9978FF5E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=aca1005e4bf580af3bb258b6684a938c%7Cf6ae2a4f5627462c96e198b94a5bda8e%7C341922dc-0d01-4e22-baa3-bc9feef6881b&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 9 (  Trying 34.235.58.47...)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.235.58.47) port 443 (#8))
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.11.08-02.56.11:742][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 13 (SSL re-using session ID)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 20 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 22 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2017.11.08-02.56.11:743][920]LogHttp: Warning: 000001878B516380: libcurl info message cache 23 (Closing connection 8)
+[2017.11.08-02.57.41:258][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.021
+[2017.11.08-02.57.41:294][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst] ([1] browsable assets)...
+[2017.11.08-02.57.41:334][187]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst.CelShade_Inst]
+[2017.11.08-02.57.41:334][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst]
+[2017.11.08-02.57.41:381][187]LogSavePackage: Save=22.13ms
+[2017.11.08-02.57.41:381][187]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/CelShade_Inst_Auto23326D6A648AC6D7A1555AA96DD0C8C6B.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst_Auto2.uasset'
+[2017.11.08-02.57.41:383][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst_Auto2.uasset
+[2017.11.08-02.57.41:383][187]LogFileHelpers: Auto-saving content packages took 0.124
+[2017.11.08-02.58.15:779][345]LogHttp: Warning: 000001878B517580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-02.58.15:779][345]LogHttp: Warning: 000001878B517580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-02.58.15:779][345]LogHttp: Warning: 000001878B517580: libcurl info message cache 1 (Closing connection 9)
+[2017.11.08-03.00.16:445][707]LogHttp: Warning: 000001878B514280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.00.16:445][707]LogHttp: Warning: 000001878B514280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.00.16:445][707]LogHttp: Warning: 000001878B514280: libcurl info message cache 1 (Closing connection 10)
+[2017.11.08-03.02.16:778][ 68]LogHttp: Warning: 000001878B514100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.02.16:778][ 68]LogHttp: Warning: 000001878B514100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.02.16:778][ 68]LogHttp: Warning: 000001878B514100: libcurl info message cache 1 (Closing connection 11)
+[2017.11.08-03.04.17:112][429]LogHttp: Warning: 000001878B517880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.04.17:112][429]LogHttp: Warning: 000001878B517880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.04.17:112][429]LogHttp: Warning: 000001878B517880: libcurl info message cache 1 (Closing connection 12)
+[2017.11.08-03.06.17:446][790]LogHttp: Warning: 000001878B515780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.06.17:446][790]LogHttp: Warning: 000001878B515780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.06.17:446][790]LogHttp: Warning: 000001878B515780: libcurl info message cache 1 (Closing connection 13)
+[2017.11.08-03.08.17:779][151]LogHttp: Warning: 000001878B514E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.08.17:779][151]LogHttp: Warning: 000001878B514E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.08.17:779][151]LogHttp: Warning: 000001878B514E80: libcurl info message cache 1 (Closing connection 14)
+[2017.11.08-03.10.18:112][512]LogHttp: Warning: 000001878B514700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.10.18:113][512]LogHttp: Warning: 000001878B514700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.10.18:113][512]LogHttp: Warning: 000001878B514700: libcurl info message cache 1 (Closing connection 15)
+[2017.11.08-03.12.18:446][873]LogHttp: Warning: 000001878B517880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.12.18:446][873]LogHttp: Warning: 000001878B517880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.12.18:446][873]LogHttp: Warning: 000001878B517880: libcurl info message cache 1 (Closing connection 16)
+[2017.11.08-03.14.18:780][234]LogHttp: Warning: 000001878B517E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.14.18:780][234]LogHttp: Warning: 000001878B517E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.14.18:780][234]LogHttp: Warning: 000001878B517E80: libcurl info message cache 1 (Closing connection 17)
+[2017.11.08-03.16.19:114][595]LogHttp: Warning: 000001878B515A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.16.19:114][595]LogHttp: Warning: 000001878B515A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.16.19:114][595]LogHttp: Warning: 000001878B515A80: libcurl info message cache 1 (Closing connection 18)
+[2017.11.08-03.18.19:781][957]LogHttp: Warning: 000001878B517400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.18.19:781][957]LogHttp: Warning: 000001878B517400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.18.19:781][957]LogHttp: Warning: 000001878B517400: libcurl info message cache 1 (Closing connection 19)
+[2017.11.08-03.20.30:089][238]LogHttp: Warning: 000001878B517580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.20.30:089][238]LogHttp: Warning: 000001878B517580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.20.30:089][238]LogHttp: Warning: 000001878B517580: libcurl info message cache 1 (Closing connection 20)
+[2017.11.08-03.22.30:424][599]LogHttp: Warning: 000001878B515480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.22.30:424][599]LogHttp: Warning: 000001878B515480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.22.30:424][599]LogHttp: Warning: 000001878B515480: libcurl info message cache 1 (Closing connection 21)
+[2017.11.08-03.24.30:760][960]LogHttp: Warning: 000001878B517100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.24.30:760][960]LogHttp: Warning: 000001878B517100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.24.30:760][960]LogHttp: Warning: 000001878B517100: libcurl info message cache 1 (Closing connection 22)
+[2017.11.08-03.26.31:094][321]LogHttp: Warning: 000001878B517E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.26.31:094][321]LogHttp: Warning: 000001878B517E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.26.31:094][321]LogHttp: Warning: 000001878B517E80: libcurl info message cache 1 (Closing connection 23)
+[2017.11.08-03.28.31:427][682]LogHttp: Warning: 000001878B514100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.28.31:427][682]LogHttp: Warning: 000001878B514100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.28.31:427][682]LogHttp: Warning: 000001878B514100: libcurl info message cache 1 (Closing connection 24)
+[2017.11.08-03.30.31:760][ 43]LogHttp: Warning: 000001878B515A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.30.31:760][ 43]LogHttp: Warning: 000001878B515A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.30.31:760][ 43]LogHttp: Warning: 000001878B515A80: libcurl info message cache 1 (Closing connection 25)
+[2017.11.08-03.32.32:097][404]LogHttp: Warning: 000001878B517D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.32.32:097][404]LogHttp: Warning: 000001878B517D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.32.32:097][404]LogHttp: Warning: 000001878B517D00: libcurl info message cache 1 (Closing connection 26)
+[2017.11.08-03.34.32:431][765]LogHttp: Warning: 000001878B516E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.34.32:431][765]LogHttp: Warning: 000001878B516E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.34.32:431][765]LogHttp: Warning: 000001878B516E00: libcurl info message cache 1 (Closing connection 27)
+[2017.11.08-03.36.32:765][126]LogHttp: Warning: 000001878B517A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.36.32:765][126]LogHttp: Warning: 000001878B517A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.36.32:765][126]LogHttp: Warning: 000001878B517A00: libcurl info message cache 1 (Closing connection 28)
+[2017.11.08-03.38.33:099][487]LogHttp: Warning: 000001878B514280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.38.33:099][487]LogHttp: Warning: 000001878B514280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.38.33:099][487]LogHttp: Warning: 000001878B514280: libcurl info message cache 1 (Closing connection 29)
+[2017.11.08-03.40.33:432][848]LogHttp: Warning: 000001878B515000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.40.33:432][848]LogHttp: Warning: 000001878B515000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.40.33:432][848]LogHttp: Warning: 000001878B515000: libcurl info message cache 1 (Closing connection 30)
+[2017.11.08-03.42.33:766][209]LogHttp: Warning: 000001878B516380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.42.33:766][209]LogHttp: Warning: 000001878B516380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.42.33:766][209]LogHttp: Warning: 000001878B516380: libcurl info message cache 1 (Closing connection 31)
+[2017.11.08-03.44.34:100][570]LogHttp: Warning: 000001878B516F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.44.34:100][570]LogHttp: Warning: 000001878B516F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.44.34:100][570]LogHttp: Warning: 000001878B516F80: libcurl info message cache 1 (Closing connection 32)
+[2017.11.08-03.46.34:767][932]LogHttp: Warning: 000001878B514400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.46.34:767][932]LogHttp: Warning: 000001878B514400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.46.34:767][932]LogHttp: Warning: 000001878B514400: libcurl info message cache 1 (Closing connection 33)
+[2017.11.08-03.48.35:434][294]LogHttp: Warning: 000001878B514700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.48.35:434][294]LogHttp: Warning: 000001878B514700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.48.35:434][294]LogHttp: Warning: 000001878B514700: libcurl info message cache 1 (Closing connection 34)
+[2017.11.08-03.50.35:768][655]LogHttp: Warning: 000001878B514880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.50.35:768][655]LogHttp: Warning: 000001878B514880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.50.35:768][655]LogHttp: Warning: 000001878B514880: libcurl info message cache 1 (Closing connection 35)
+[2017.11.08-03.52.36:434][ 17]LogHttp: Warning: 000001878B517400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.52.36:434][ 17]LogHttp: Warning: 000001878B517400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.52.36:434][ 17]LogHttp: Warning: 000001878B517400: libcurl info message cache 1 (Closing connection 36)
+[2017.11.08-03.54.09:959][421]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-03.54.11:559][421]LogSavePackage: Save=8.70ms
+[2017.11.08-03.54.11:559][421]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/CelShade_InstB2AE9C9447DD691E49A3959D084F40B1.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst.uasset'
+[2017.11.08-03.54.11:563][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Shaders/CelShade-Emisive/CelShade_Inst.uasset
+[2017.11.08-03.54.11:565][421]Cmd: MAP LOAD FILE="../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Maps/White_Collared.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.08-03.54.11:565][421]LightingResults: New page: Lighting Build
+[2017.11.08-03.54.11:566][421]LoadErrors: New page: Loading map: White_Collared.umap
+[2017.11.08-03.54.11:567][421]MapCheck: New page: Map Check
+[2017.11.08-03.54.11:567][421]LightingResults: New page: Lighting Build
+[2017.11.08-03.54.11:695][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.08-03.54.11:772][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.08-03.54.11:847][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.195ms to complete.
+[2017.11.08-03.54.11:848][421]LogFileHelpers: Loading map 'White_Collared' took 0.284
+[2017.11.08-03.54.14:803][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube)
+[2017.11.08-03.54.41:172][698]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx)
+[2017.11.08-03.54.41:182][698]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.08-03.54.41:182][698]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.08-03.54.41:182][698]LogFbx: ItemName: Model, ItemCount : 1
+[2017.11.08-03.54.41:182][698]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.08-03.54.41:189][698]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-03.54.41:199][698]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-03.54.49:251][698]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-03.54.49:258][698]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-03.54.49:314][698]LogFbx: Warning: Triangulating static mesh Cube
+[2017.11.08-03.54.49:329][698]LogStaticMesh: Building static mesh DoveManCityBlock...
+[2017.11.08-03.54.49:329][698]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.DoveManCityBlock
+[2017.11.08-03.54.49:515][701]LogHttp: Warning: 00000187EAA87A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.54.49:515][701]LogHttp: Warning: 00000187EAA87A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.54.49:515][701]LogHttp: Warning: 00000187EAA87A00: libcurl info message cache 1 (Closing connection 37)
+[2017.11.08-03.55.12:698][207]LogActorFactory: Actor Factory created DoveManCityBlock
+[2017.11.08-03.55.12:947][212]LogActorFactory: Actor Factory created DoveManCityBlock
+[2017.11.08-03.55.14:389][244]Cmd: DELETE
+[2017.11.08-03.55.14:389][244]Cmd: ACTOR DELETE
+[2017.11.08-03.55.14:392][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.08-03.55.14:417][244]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2017.11.08-03.55.15:198][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube)
+[2017.11.08-03.55.17:088][316]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (DoveManCity_Cube)
+[2017.11.08-03.55.19:850][453]LogActorFactory: Actor Factory created DoveManCityBlock
+[2017.11.08-03.55.19:884][453]EditorErrors: New page: Actor Reattachment
+[2017.11.08-03.55.23:393][576]MapCheck: New page: Map Check
+[2017.11.08-03.55.23:406][576]LightingResults: New page: Lighting Build - Nov 7, 2017, 7:55:23 PM
+[2017.11.08-03.55.23:419][576]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.08-03.55.23:421][576]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.08-03.55.23:421][576]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.08-03.55.23:422][576]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.08-03.55.23:422][576]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13560
+[2017.11.08-03.55.23:648][576]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.08-03.55.23:648][576]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.08-03.55.23:648][576]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.08-03.55.23:648][576]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.08-03.55.23:648][576]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.08-03.55.23:648][576]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.08-03.55.23:904][576]LogEditorBuildUtils: Build time 0:00
+[2017.11.08-03.55.23:923][576]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Material, compiling. 
+[2017.11.08-03.55.23:980][576]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Material, compiling. 
+[2017.11.08-03.55.28:804][647]Job is a success!
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.3Mb
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport:          1: 21.9% covering 25.0% of volume
+[2017.11.08-03.55.29:044][648]LogVolumetricLightmapImport:          2: 76.7% covering 1.4% of volume
+[2017.11.08-03.55.29:067][648]LogMaterial: Warning: Material /Game/_WhiteCollared/Importer_Folder/NewFolder/Material.Material needed to have new flag set bUsedWithStaticLighting !
+[2017.11.08-03.55.29:069][648]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.11.08-03.55.29:367][648]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.11.08-03.55.29:367][648]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.11.08-03.55.29:367][648]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.08-03.55.29:367][648]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.08-03.55.29:367][648]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.11.08-03.55.29:367][648]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2017.11.08-03.55.29:410][648]LogStaticLightingSystem: Illumination: 5.90 sec (62 ms encoding lightmaps, 158 ms encoding shadowmaps)
+[2017.11.08-03.55.29:411][648]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.08-03.55.29:411][648]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.08-03.55.29:652][648]Lightmass on CG-LENOVO: 2.94 sec total, 555 ms importing, 37 ms setup, 608 ms photons, 1.72 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 6.86 sec total, 1.01 sec processing.
+[2017.11.08-03.55.29:652][648]DumpUnbuiltLightIteractions
+[2017.11.08-03.55.29:652][648]Lights with unbuilt interactions: 0
+[2017.11.08-03.55.29:652][648]
+[2017.11.08-03.55.29:652][648]Primitives with unbuilt interactions: 0
+[2017.11.08-03.55.29:664][649]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.08-03.55.29:664][649]MapCheck: New page: White_Collared - Nov 7, 2017, 7:55:29 PM
+[2017.11.08-03.55.29:783][649]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119.246ms to complete.
+[2017.11.08-03.55.43:042][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube)
+[2017.11.08-03.55.53:371][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube_001)
+[2017.11.08-03.56.00:632][366]MapCheck: New page: Map Check
+[2017.11.08-03.56.00:648][366]LightingResults: New page: Lighting Build - Nov 7, 2017, 7:56:00 PM
+[2017.11.08-03.56.00:661][366]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.08-03.56.00:663][366]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.08-03.56.00:663][366]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.08-03.56.00:664][366]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.08-03.56.00:664][366]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13560
+[2017.11.08-03.56.00:689][366]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.08-03.56.00:689][366]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.08-03.56.00:689][366]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.08-03.56.00:689][366]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.08-03.56.00:689][366]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.08-03.56.00:689][366]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.08-03.56.00:900][366]LogEditorBuildUtils: Build time 0:00
+[2017.11.08-03.56.00:930][366]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Material, compiling. 
+[2017.11.08-03.56.00:954][366]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Material, compiling. 
+[2017.11.08-03.56.04:717][481]Job is a success!
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.3Mb
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport:          1: 21.9% covering 25.0% of volume
+[2017.11.08-03.56.04:867][483]LogVolumetricLightmapImport:          2: 76.7% covering 1.4% of volume
+[2017.11.08-03.56.05:041][483]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.11.08-03.56.05:041][483]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.11.08-03.56.05:041][483]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.08-03.56.05:041][483]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.08-03.56.05:041][483]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2017.11.08-03.56.05:041][483]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2017.11.08-03.56.05:071][483]Lightmass on CG-LENOVO: 2.32 sec total, 229 ms importing, 34 ms setup, 579 ms photons, 1.46 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.83 sec total, 1.09 sec processing.
+[2017.11.08-03.56.05:078][483]LogStaticLightingSystem: Illumination: 4.39 sec (55 ms encoding lightmaps, 109 ms encoding shadowmaps)
+[2017.11.08-03.56.05:078][483]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.08-03.56.05:078][483]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.08-03.56.05:695][483]DumpUnbuiltLightIteractions
+[2017.11.08-03.56.05:695][483]Lights with unbuilt interactions: 0
+[2017.11.08-03.56.05:695][483]
+[2017.11.08-03.56.05:695][483]Primitives with unbuilt interactions: 0
+[2017.11.08-03.56.05:977][484]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.08-03.56.05:978][484]MapCheck: New page: White_Collared - Nov 7, 2017, 7:56:05 PM
+[2017.11.08-03.56.06:056][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.478ms to complete.
+[2017.11.08-03.56.14:446][720]MapCheck: New page: Map Check
+[2017.11.08-03.56.14:458][720]LightingResults: New page: Lighting Build - Nov 7, 2017, 7:56:14 PM
+[2017.11.08-03.56.14:472][720]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.08-03.56.14:475][720]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.08-03.56.14:475][720]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.08-03.56.14:476][720]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.08-03.56.14:476][720]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13560
+[2017.11.08-03.56.14:500][720]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.08-03.56.14:500][720]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.08-03.56.14:500][720]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.08-03.56.14:500][720]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.08-03.56.14:500][720]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.08-03.56.14:500][720]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.08-03.56.14:718][720]LogEditorBuildUtils: Build time 0:00
+[2017.11.08-03.56.17:793][787]Job is a success!
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport:      BrickData 365x5x5 = 0.3Mb
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport:          1: 21.9% covering 25.0% of volume
+[2017.11.08-03.56.18:091][788]LogVolumetricLightmapImport:          2: 76.7% covering 1.4% of volume
+[2017.11.08-03.56.18:237][788]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.11.08-03.56.18:237][788]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.08-03.56.18:237][788]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.08-03.56.18:237][788]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.11.08-03.56.18:237][788]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X128)
+[2017.11.08-03.56.18:237][788]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2017.11.08-03.56.18:272][788]Lightmass on CG-LENOVO: 2.57 sec total, 286 ms importing, 34 ms setup, 680 ms photons, 1.55 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 6.18 sec total, 1.06 sec processing.
+[2017.11.08-03.56.18:280][788]LogStaticLightingSystem: Illumination: 3.71 sec (94 ms encoding lightmaps, 37 ms encoding shadowmaps)
+[2017.11.08-03.56.18:280][788]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.08-03.56.18:280][788]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.08-03.56.18:505][788]DumpUnbuiltLightIteractions
+[2017.11.08-03.56.18:505][788]Lights with unbuilt interactions: 0
+[2017.11.08-03.56.18:505][788]
+[2017.11.08-03.56.18:505][788]Primitives with unbuilt interactions: 0
+[2017.11.08-03.56.18:516][789]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.08-03.56.18:516][789]MapCheck: New page: White_Collared - Nov 7, 2017, 7:56:18 PM
+[2017.11.08-03.56.18:670][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 153.816ms to complete.
+[2017.11.08-03.56.22:935][893]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.08-03.56.22:957][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-03.56.22:957][893]PIE: New page: PIE session: White_Collared (Nov 7, 2017, 7:56:22 PM)
+[2017.11.08-03.56.22:958][893]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.11.08-03.56.22:961][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002995s)
+[2017.11.08-03.56.22:961][893]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-03.56.22:962][893]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2017.11.08-03.56.22:962][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.004661s)
+[2017.11.08-03.56.22:981][893]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-03.56.23:000][893]LogInit: FAudioDevice initialized.
+[2017.11.08-03.56.23:047][893]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.11.08-03.56.23:049][893]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.11.07-23.56.23
+[2017.11.08-03.56.23:049][893]LogWorld: Bringing up level for play took: 0.001201
+[2017.11.08-03.56.23:057][893]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.029
+[2017.11.08-03.56.44:413][241]LogSavePackage: Save=20.47ms
+[2017.11.08-03.56.44:413][241]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlock772B7DF745D33EBE2913DCA670340B58.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.uasset'
+[2017.11.08-03.56.44:418][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.uasset
+[2017.11.08-03.56.45:521][267]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.08-03.56.45:548][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-03.56.45:549][267]PIE: New page: PIE session: White_Collared (Nov 7, 2017, 7:56:45 PM)
+[2017.11.08-03.56.45:549][267]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.11.08-03.56.45:551][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002572s)
+[2017.11.08-03.56.45:552][267]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-03.56.45:553][267]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2017.11.08-03.56.45:553][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.004123s)
+[2017.11.08-03.56.45:573][267]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-03.56.45:593][267]LogInit: FAudioDevice initialized.
+[2017.11.08-03.56.45:641][267]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.11.08-03.56.45:642][267]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.11.07-23.56.45
+[2017.11.08-03.56.45:642][267]LogWorld: Bringing up level for play took: 0.001100
+[2017.11.08-03.56.45:649][267]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.564
+[2017.11.08-03.56.49:604][333]LogHttp: Warning: 00000187A3A4D180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.56.49:605][333]LogHttp: Warning: 00000187A3A4D180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.56.49:605][333]LogHttp: Warning: 00000187A3A4D180: libcurl info message cache 1 (Closing connection 38)
+[2017.11.08-03.58.49:732][ 59]LogHttp: Warning: 00000188299FD300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-03.58.49:732][ 59]LogHttp: Warning: 00000188299FD300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-03.58.49:732][ 59]LogHttp: Warning: 00000188299FD300: libcurl info message cache 1 (Closing connection 39)
+[2017.11.08-04.00.31:107][230]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx)
+[2017.11.08-04.00.31:113][230]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.08-04.00.31:114][230]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.08-04.00.31:114][230]LogFbx: ItemName: Model, ItemCount : 1
+[2017.11.08-04.00.31:114][230]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.08-04.00.31:121][230]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-04.00.31:129][230]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-04.01.17:297][230]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-04.01.17:304][230]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-04.01.17:305][230]LogFbx: Warning: Triangulating static mesh Cube
+[2017.11.08-04.01.17:306][230]LogStaticMesh: Building static mesh DoveManCityBlock...
+[2017.11.08-04.01.17:307][230]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.DoveManCityBlock
+[2017.11.08-04.01.17:519][232]LogHttp: Warning: 00000187F2F7DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.01.17:519][232]LogHttp: Warning: 00000187F2F7DC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.01.17:519][232]LogHttp: Warning: 00000187F2F7DC00: libcurl info message cache 1 (Closing connection 40)
+[2017.11.08-04.01.48:223][686]LogSavePackage: Save=19.69ms
+[2017.11.08-04.01.48:224][686]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlockDACC6C064EEB70CD0E377394443DC6F2.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.uasset'
+[2017.11.08-04.01.48:227][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.uasset
+[2017.11.08-04.01.53:892][759]LogActorFactory: Actor Factory created DoveManCityBlock
+[2017.11.08-04.01.56:713][823]LogActorFactory: Actor Factory created DoveManCityBlock
+[2017.11.08-04.02.21:921][206]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (DoveManCity_Cube_001)
+[2017.11.08-04.02.22:980][260]LogEditorViewport: Clicking Background
+[2017.11.08-04.02.27:978][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube_001)
+[2017.11.08-04.02.28:417][577]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (DoveManCity_Cube_001)
+[2017.11.08-04.02.32:326][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.08-04.02.32:351][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-04.02.32:351][804]PIE: New page: PIE session: White_Collared (Nov 7, 2017, 8:02:32 PM)
+[2017.11.08-04.02.32:351][804]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.11.08-04.02.32:354][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003182s)
+[2017.11.08-04.02.32:355][804]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-04.02.32:356][804]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2017.11.08-04.02.32:356][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.004739s)
+[2017.11.08-04.02.32:378][804]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-04.02.32:399][804]LogInit: FAudioDevice initialized.
+[2017.11.08-04.02.32:440][804]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.11.08-04.02.32:441][804]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.11.08-00.02.32
+[2017.11.08-04.02.32:442][804]LogWorld: Bringing up level for play took: 0.001270
+[2017.11.08-04.02.32:449][804]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.636
+[2017.11.08-04.03.01:235][378]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx)
+[2017.11.08-04.03.01:242][378]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.08-04.03.01:242][378]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.11.08-04.03.01:242][378]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.11.08-04.03.01:242][378]LogFbx: ItemName: Model, ItemCount : 4
+[2017.11.08-04.03.01:242][378]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.08-04.03.01:249][378]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx
+[2017.11.08-04.03.01:260][378]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-04.03.03:502][378]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/Buildings/DoveManCity.fbx
+[2017.11.08-04.03.03:513][378]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-04.03.03:513][378]LogFbx: Warning: Triangulating static mesh Cube.001
+[2017.11.08-04.03.03:515][378]LogStaticMesh: Building static mesh DoveManCity_Cube_001...
+[2017.11.08-04.03.03:515][378]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.DoveManCity_Cube_001
+[2017.11.08-04.03.03:516][378]LogStaticMesh: Warning: DoveManCity_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.08-04.03.03:516][378]LogStaticMesh: Warning: DoveManCity_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.08-04.03.03:521][378]LogFbx: Warning: Triangulating static mesh Cube
+[2017.11.08-04.03.03:522][378]LogStaticMesh: Building static mesh DoveManCity_Cube...
+[2017.11.08-04.03.03:523][378]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube.DoveManCity_Cube
+[2017.11.08-04.03.03:523][378]LogStaticMesh: Warning: DoveManCity_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.08-04.03.03:523][378]LogStaticMesh: Warning: DoveManCity_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.08-04.03.03:532][378]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.08-04.03.03:532][378]FBXImport: Warning: DoveManCity_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.08-04.03.03:532][378]FBXImport: Warning: DoveManCity_Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.08-04.03.03:532][378]FBXImport: Warning: DoveManCity_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.08-04.03.03:532][378]FBXImport: Warning: DoveManCity_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.08-04.03.10:348][508]LogActorFactory: Actor Factory created DoveManCity_Cube_001
+[2017.11.08-04.03.12:834][656]LogActorFactory: Actor Factory created DoveManCity_Cube_001
+[2017.11.08-04.03.17:584][878]LogHttp: Warning: 000001878BCE2500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.03.17:585][878]LogHttp: Warning: 000001878BCE2500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.03.17:585][878]LogHttp: Warning: 000001878BCE2500: libcurl info message cache 1 (Closing connection 41)
+[2017.11.08-04.03.17:797][882]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.08-04.03.17:825][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-04.03.17:825][882]PIE: New page: PIE session: White_Collared (Nov 7, 2017, 8:03:17 PM)
+[2017.11.08-04.03.17:825][882]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.11.08-04.03.17:828][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2017.11.08-04.03.17:829][882]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-04.03.17:829][882]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2017.11.08-04.03.17:830][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.004432s)
+[2017.11.08-04.03.17:852][882]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-04.03.17:871][882]LogInit: FAudioDevice initialized.
+[2017.11.08-04.03.17:915][882]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.11.08-04.03.17:916][882]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.11.08-00.03.17
+[2017.11.08-04.03.17:917][882]LogWorld: Bringing up level for play took: 0.001360
+[2017.11.08-04.03.17:924][882]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.839
+[2017.11.08-04.03.53:520][222]LogSavePackage: Save=21.00ms
+[2017.11.08-04.03.53:520][222]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCity_Cube_001DC26A4A8401FA2DF57E384A0A4FBBCA8.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.uasset'
+[2017.11.08-04.03.53:524][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCity_Cube_001.uasset
+[2017.11.08-04.03.58:383][305]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.08-04.03.58:409][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.08-04.03.58:409][305]PIE: New page: PIE session: White_Collared (Nov 7, 2017, 8:03:58 PM)
+[2017.11.08-04.03.58:409][305]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.11.08-04.03.58:412][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002784s)
+[2017.11.08-04.03.58:413][305]LogAIModule: Creating AISystem for world White_Collared
+[2017.11.08-04.03.58:413][305]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2017.11.08-04.03.58:413][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.004280s)
+[2017.11.08-04.03.58:430][305]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.08-04.03.58:450][305]LogInit: FAudioDevice initialized.
+[2017.11.08-04.03.58:495][305]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.11.08-04.03.58:497][305]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.11.08-00.03.58
+[2017.11.08-04.03.58:497][305]LogWorld: Bringing up level for play took: 0.001354
+[2017.11.08-04.03.58:504][305]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.582
+[2017.11.08-04.05.17:994][991]LogHttp: Warning: 00000187FCC69C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.05.17:994][991]LogHttp: Warning: 00000187FCC69C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.05.17:994][991]LogHttp: Warning: 00000187FCC69C00: libcurl info message cache 1 (Closing connection 42)
+[2017.11.08-04.05.32:539][ 33]LogSavePackage: Save=156.16ms
+[2017.11.08-04.05.32:539][ 33]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_Auto39E5668204C8CBB033A59589B50DF9F0C.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto3.umap'
+[2017.11.08-04.05.32:543][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto3.umap
+[2017.11.08-04.05.32:545][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.205
+[2017.11.08-04.05.32:546][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2017.11.08-04.05.32:548][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/Material] ([1] browsable assets)...
+[2017.11.08-04.05.32:548][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/Material]
+[2017.11.08-04.05.32:602][ 33]LogSavePackage: Save=39.47ms
+[2017.11.08-04.05.32:603][ 33]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Material_Auto38C8D74B44C023CA050B07884F124CFC9.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/Material_Auto3.uasset'
+[2017.11.08-04.05.32:620][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/Material_Auto3.uasset
+[2017.11.08-04.05.32:620][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_WhiteCollared/Maps/White_Collared_BuiltData] ([1] browsable assets)...
+[2017.11.08-04.05.32:620][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Maps/White_Collared_BuiltData]
+[2017.11.08-04.05.32:647][ 33]LogSavePackage: Save=11.14ms
+[2017.11.08-04.05.32:647][ 33]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_BuiltData_Auto38F949F014965B6D5B246D4BBF0A56EFB.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_BuiltData_Auto3.uasset'
+[2017.11.08-04.05.32:648][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_BuiltData_Auto3.uasset
+[2017.11.08-04.05.32:648][ 33]LogFileHelpers: Auto-saving content packages took 0.101
+[2017.11.08-04.07.18:341][352]LogHttp: Warning: 00000187F2567580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.07.18:341][352]LogHttp: Warning: 00000187F2567580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.07.18:341][352]LogHttp: Warning: 00000187F2567580: libcurl info message cache 1 (Closing connection 43)
+[2017.11.08-04.09.18:675][713]LogHttp: Warning: 00000187F2567580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.09.18:675][713]LogHttp: Warning: 00000187F2567580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.09.18:675][713]LogHttp: Warning: 00000187F2567580: libcurl info message cache 1 (Closing connection 44)
+[2017.11.08-04.11.19:008][ 74]LogHttp: Warning: 00000187F2567400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.11.19:009][ 74]LogHttp: Warning: 00000187F2567400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.11.19:009][ 74]LogHttp: Warning: 00000187F2567400: libcurl info message cache 1 (Closing connection 45)
+[2017.11.08-04.13.19:342][435]LogHttp: Warning: 00000187F2567580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.13.19:342][435]LogHttp: Warning: 00000187F2567580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.13.19:342][435]LogHttp: Warning: 00000187F2567580: libcurl info message cache 1 (Closing connection 46)
+[2017.11.08-04.15.19:677][796]LogHttp: Warning: 00000187F2567580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.15.19:678][796]LogHttp: Warning: 00000187F2567580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.15.19:678][796]LogHttp: Warning: 00000187F2567580: libcurl info message cache 1 (Closing connection 47)
+[2017.11.08-04.17.20:344][158]LogHttp: Warning: 00000187F2566080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.17.20:344][158]LogHttp: Warning: 00000187F2566080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.17.20:344][158]LogHttp: Warning: 00000187F2566080: libcurl info message cache 1 (Closing connection 48)
+[2017.11.08-04.19.20:677][519]LogHttp: Warning: 00000187F2566080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.19.20:677][519]LogHttp: Warning: 00000187F2566080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.19.20:677][519]LogHttp: Warning: 00000187F2566080: libcurl info message cache 1 (Closing connection 49)
+[2017.11.08-04.21.21:010][880]LogHttp: Warning: 00000187F2566080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.21.21:010][880]LogHttp: Warning: 00000187F2566080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.21.21:010][880]LogHttp: Warning: 00000187F2566080: libcurl info message cache 1 (Closing connection 50)
+[2017.11.08-04.23.21:345][241]LogHttp: Warning: 00000187F2566080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.23.21:345][241]LogHttp: Warning: 00000187F2566080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.23.21:345][241]LogHttp: Warning: 00000187F2566080: libcurl info message cache 1 (Closing connection 51)
+[2017.11.08-04.25.22:012][603]LogHttp: Warning: 00000187F2566980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.25.22:012][603]LogHttp: Warning: 00000187F2566980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.25.22:013][603]LogHttp: Warning: 00000187F2566980: libcurl info message cache 1 (Closing connection 52)
+[2017.11.08-04.27.22:678][965]LogHttp: Warning: 00000187F2567700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.27.22:678][965]LogHttp: Warning: 00000187F2567700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.27.22:678][965]LogHttp: Warning: 00000187F2567700: libcurl info message cache 1 (Closing connection 53)
+[2017.11.08-04.29.23:011][326]LogHttp: Warning: 00000187F2567700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.29.23:012][326]LogHttp: Warning: 00000187F2567700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.29.23:012][326]LogHttp: Warning: 00000187F2567700: libcurl info message cache 1 (Closing connection 54)
+[2017.11.08-04.31.23:346][687]LogHttp: Warning: 00000187F2567700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.31.23:347][687]LogHttp: Warning: 00000187F2567700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.31.23:347][687]LogHttp: Warning: 00000187F2567700: libcurl info message cache 1 (Closing connection 55)
+[2017.11.08-04.33.23:680][ 48]LogHttp: Warning: 00000187F2567700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.33.23:680][ 48]LogHttp: Warning: 00000187F2567700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.33.23:681][ 48]LogHttp: Warning: 00000187F2567700: libcurl info message cache 1 (Closing connection 56)
+[2017.11.08-04.34.59:982][348]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (DoveManCity_Cube_2)
+[2017.11.08-04.35.01:486][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DoveManCity_Cube_2)
+[2017.11.08-04.35.23:725][730]LogHttp: Warning: 00000188074F9C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.35.23:725][730]LogHttp: Warning: 00000188074F9C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.35.23:725][730]LogHttp: Warning: 00000188074F9C00: libcurl info message cache 1 (Closing connection 57)
+[2017.11.08-04.37.24:306][428]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.37.24:306][428]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.37.24:306][428]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 58)
+[2017.11.08-04.39.24:640][789]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.39.24:640][789]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.39.24:640][789]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 59)
+[2017.11.08-04.41.24:973][150]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.41.24:974][150]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.41.24:974][150]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 60)
+[2017.11.08-04.43.25:309][511]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.43.25:310][511]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.43.25:310][511]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 61)
+[2017.11.08-04.45.25:977][873]LogHttp: Warning: 00000188074F8700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.45.25:977][873]LogHttp: Warning: 00000188074F8700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.45.25:977][873]LogHttp: Warning: 00000188074F8700: libcurl info message cache 1 (Closing connection 62)
+[2017.11.08-04.47.26:641][235]LogHttp: Warning: 00000188074F8B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.47.26:641][235]LogHttp: Warning: 00000188074F8B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.47.26:641][235]LogHttp: Warning: 00000188074F8B80: libcurl info message cache 1 (Closing connection 63)
+[2017.11.08-04.49.27:311][597]LogHttp: Warning: 00000188074FB880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.49.27:312][597]LogHttp: Warning: 00000188074FB880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.49.27:312][597]LogHttp: Warning: 00000188074FB880: libcurl info message cache 1 (Closing connection 64)
+[2017.11.08-04.51.27:975][959]LogHttp: Warning: 00000188074F9900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.51.27:976][959]LogHttp: Warning: 00000188074F9900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.51.27:976][959]LogHttp: Warning: 00000188074F9900: libcurl info message cache 1 (Closing connection 65)
+[2017.11.08-04.53.28:642][321]LogHttp: Warning: 00000188074F8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.53.28:642][321]LogHttp: Warning: 00000188074F8400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.53.28:642][321]LogHttp: Warning: 00000188074F8400: libcurl info message cache 1 (Closing connection 66)
+[2017.11.08-04.55.28:976][682]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.55.28:976][682]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.55.28:976][682]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 67)
+[2017.11.08-04.57.29:310][ 43]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.57.29:310][ 43]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.57.29:310][ 43]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 68)
+[2017.11.08-04.59.29:643][404]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-04.59.29:643][404]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-04.59.29:643][404]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 69)
+[2017.11.08-05.01.29:977][765]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.01.29:977][765]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.01.29:977][765]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 70)
+[2017.11.08-05.03.30:315][126]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.03.30:315][126]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.03.30:315][126]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 71)
+[2017.11.08-05.05.30:662][487]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.05.30:662][487]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.05.30:662][487]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 72)
+[2017.11.08-05.07.31:327][849]LogHttp: Warning: 00000188074F9180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.07.31:327][849]LogHttp: Warning: 00000188074F9180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.07.31:327][849]LogHttp: Warning: 00000188074F9180: libcurl info message cache 1 (Closing connection 73)
+[2017.11.08-05.09.31:660][210]LogHttp: Warning: 00000188074FA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.09.31:661][210]LogHttp: Warning: 00000188074FA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.09.31:661][210]LogHttp: Warning: 00000188074FA200: libcurl info message cache 1 (Closing connection 74)
+[2017.11.08-05.11.31:994][571]LogHttp: Warning: 00000188074FA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.11.31:994][571]LogHttp: Warning: 00000188074FA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.11.31:994][571]LogHttp: Warning: 00000188074FA200: libcurl info message cache 1 (Closing connection 75)
+[2017.11.08-05.13.32:328][932]LogHttp: Warning: 00000188074FA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.13.32:328][932]LogHttp: Warning: 00000188074FA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.13.32:328][932]LogHttp: Warning: 00000188074FA200: libcurl info message cache 1 (Closing connection 76)
+[2017.11.08-05.15.32:662][293]LogHttp: Warning: 00000188074FA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.15.32:662][293]LogHttp: Warning: 00000188074FA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.15.32:662][293]LogHttp: Warning: 00000188074FA200: libcurl info message cache 1 (Closing connection 77)
+[2017.11.08-05.17.33:002][654]LogHttp: Warning: 00000188074F8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.17.33:002][654]LogHttp: Warning: 00000188074F8400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.17.33:002][654]LogHttp: Warning: 00000188074F8400: libcurl info message cache 1 (Closing connection 78)
+[2017.11.08-05.19.33:348][ 15]LogHttp: Warning: 00000188074F8400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.19.33:348][ 15]LogHttp: Warning: 00000188074F8400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.19.33:348][ 15]LogHttp: Warning: 00000188074F8400: libcurl info message cache 1 (Closing connection 79)
+[2017.11.08-05.21.34:003][377]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.21.34:003][377]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.21.34:003][377]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 80)
+[2017.11.08-05.23.34:337][738]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.23.34:337][738]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.23.34:337][738]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 81)
+[2017.11.08-05.25.34:672][ 99]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.25.34:672][ 99]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.25.34:672][ 99]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 82)
+[2017.11.08-05.27.35:004][460]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.27.35:004][460]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.27.35:004][460]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 83)
+[2017.11.08-05.29.35:338][821]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.29.35:338][821]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.29.35:338][821]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 84)
+[2017.11.08-05.31.35:678][182]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.31.35:678][182]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.31.35:678][182]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 85)
+[2017.11.08-05.33.36:012][543]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.33.36:012][543]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.33.36:012][543]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 86)
+[2017.11.08-05.35.36:346][904]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.35.36:346][904]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.35.36:346][904]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 87)
+[2017.11.08-05.37.36:680][265]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.37.36:680][265]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.37.36:680][265]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 88)
+[2017.11.08-05.39.37:013][626]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.39.37:013][626]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.39.37:013][626]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 89)
+[2017.11.08-05.41.37:347][987]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.41.37:347][987]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.41.37:347][987]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 90)
+[2017.11.08-05.43.37:680][348]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.43.37:681][348]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.43.37:681][348]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 91)
+[2017.11.08-05.45.38:029][709]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.45.38:029][709]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.45.38:029][709]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 92)
+[2017.11.08-05.47.38:368][ 70]LogHttp: Warning: 00000188074FAC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.47.38:369][ 70]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.47.38:369][ 70]LogHttp: Warning: 00000188074FAC80: libcurl info message cache 1 (Closing connection 93)
+[2017.11.08-05.49.39:036][432]LogHttp: Warning: 00000188074FBD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.49.39:036][432]LogHttp: Warning: 00000188074FBD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.49.39:036][432]LogHttp: Warning: 00000188074FBD00: libcurl info message cache 1 (Closing connection 94)
+[2017.11.08-05.51.39:696][794]LogHttp: Warning: 00000188074F9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.51.39:696][794]LogHttp: Warning: 00000188074F9000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.51.39:696][794]LogHttp: Warning: 00000188074F9000: libcurl info message cache 1 (Closing connection 95)
+[2017.11.08-05.53.40:030][155]LogHttp: Warning: 00000188074FA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.53.40:030][155]LogHttp: Warning: 00000188074FA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.53.40:030][155]LogHttp: Warning: 00000188074FA980: libcurl info message cache 1 (Closing connection 96)
+[2017.11.08-05.55.40:367][516]LogHttp: Warning: 00000188074FA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.55.40:368][516]LogHttp: Warning: 00000188074FA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.55.40:368][516]LogHttp: Warning: 00000188074FA980: libcurl info message cache 1 (Closing connection 97)
+[2017.11.08-05.57.41:032][878]LogHttp: Warning: 00000188074F9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.57.41:032][878]LogHttp: Warning: 00000188074F9000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.57.41:032][878]LogHttp: Warning: 00000188074F9000: libcurl info message cache 1 (Closing connection 98)
+[2017.11.08-05.59.41:367][239]LogHttp: Warning: 00000188074F9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-05.59.41:368][239]LogHttp: Warning: 00000188074F9000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-05.59.41:368][239]LogHttp: Warning: 00000188074F9000: libcurl info message cache 1 (Closing connection 99)
+[2017.11.08-06.01.41:700][600]LogHttp: Warning: 00000188074F9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.01.41:700][600]LogHttp: Warning: 00000188074F9000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.01.41:700][600]LogHttp: Warning: 00000188074F9000: libcurl info message cache 1 (Closing connection 100)
+[2017.11.08-06.03.42:038][961]LogHttp: Warning: 00000188074F9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.03.42:039][961]LogHttp: Warning: 00000188074F9000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.03.42:039][961]LogHttp: Warning: 00000188074F9000: libcurl info message cache 1 (Closing connection 101)
+[2017.11.08-06.05.42:367][322]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.05.42:367][322]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.05.42:367][322]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 102)
+[2017.11.08-06.07.42:700][683]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.07.42:700][683]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.07.42:700][683]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 103)
+[2017.11.08-06.09.43:035][ 44]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.09.43:035][ 44]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.09.43:035][ 44]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 104)
+[2017.11.08-06.11.43:368][405]LogHttp: Warning: 00000188074F9D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.11.43:368][405]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.11.43:368][405]LogHttp: Warning: 00000188074F9D80: libcurl info message cache 1 (Closing connection 105)
+[2017.11.08-06.13.43:702][766]LogHttp: Warning: 00000188074F9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.13.43:702][766]LogHttp: Warning: 00000188074F9000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.13.43:702][766]LogHttp: Warning: 00000188074F9000: libcurl info message cache 1 (Closing connection 106)
+[2017.11.08-06.15.44:036][127]LogHttp: Warning: 00000188074FA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.15.44:037][127]LogHttp: Warning: 00000188074FA800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.15.44:037][127]LogHttp: Warning: 00000188074FA800: libcurl info message cache 1 (Closing connection 107)
+[2017.11.08-06.17.44:411][487]LogHttp: Warning: 00000188074FA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.17.44:412][487]LogHttp: Warning: 00000188074FA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.17.44:412][487]LogHttp: Warning: 00000188074FA980: libcurl info message cache 1 (Closing connection 108)
+[2017.11.08-06.19.44:964][848]LogHttp: Warning: 00000188074FBD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.19.44:964][848]LogHttp: Warning: 00000188074FBD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.19.44:964][848]LogHttp: Warning: 00000188074FBD00: libcurl info message cache 1 (Closing connection 109)
+[2017.11.08-06.21.45:512][417]LogHttp: Warning: 0000018825672800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.21.45:512][417]LogHttp: Warning: 0000018825672800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.21.45:512][417]LogHttp: Warning: 0000018825672800: libcurl info message cache 1 (Closing connection 110)
+[2017.11.08-06.23.45:846][778]LogHttp: Warning: 0000018825670280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.23.45:846][778]LogHttp: Warning: 0000018825670280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.23.45:846][778]LogHttp: Warning: 0000018825670280: libcurl info message cache 1 (Closing connection 111)
+[2017.11.08-06.25.46:183][139]LogHttp: Warning: 0000018825670280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.25.46:183][139]LogHttp: Warning: 0000018825670280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.25.46:183][139]LogHttp: Warning: 0000018825670280: libcurl info message cache 1 (Closing connection 112)
+[2017.11.08-06.27.46:593][545]LogHttp: Warning: 000001878B485D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.27.46:593][545]LogHttp: Warning: 000001878B485D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.27.46:593][545]LogHttp: Warning: 000001878B485D80: libcurl info message cache 1 (Closing connection 113)
+[2017.11.08-06.29.46:926][906]LogHttp: Warning: 000001878B486680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.29.46:926][906]LogHttp: Warning: 000001878B486680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.29.46:926][906]LogHttp: Warning: 000001878B486680: libcurl info message cache 1 (Closing connection 114)
+[2017.11.08-06.31.47:260][267]LogHttp: Warning: 000001878B485D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.31.47:260][267]LogHttp: Warning: 000001878B485D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.31.47:260][267]LogHttp: Warning: 000001878B485D80: libcurl info message cache 1 (Closing connection 115)
+[2017.11.08-06.33.47:595][628]LogHttp: Warning: 000001878B486980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.33.47:595][628]LogHttp: Warning: 000001878B486980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.33.47:595][628]LogHttp: Warning: 000001878B486980: libcurl info message cache 1 (Closing connection 116)
+[2017.11.08-06.35.47:929][989]LogHttp: Warning: 000001878B487580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.35.47:929][989]LogHttp: Warning: 000001878B487580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.35.47:929][989]LogHttp: Warning: 000001878B487580: libcurl info message cache 1 (Closing connection 117)
+[2017.11.08-06.37.48:263][350]LogHttp: Warning: 000001878B485300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.37.48:263][350]LogHttp: Warning: 000001878B485300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.37.48:263][350]LogHttp: Warning: 000001878B485300: libcurl info message cache 1 (Closing connection 118)
+[2017.11.08-06.39.48:596][711]LogHttp: Warning: 000001878B487D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.39.48:596][711]LogHttp: Warning: 000001878B487D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.39.48:596][711]LogHttp: Warning: 000001878B487D00: libcurl info message cache 1 (Closing connection 119)
+[2017.11.08-06.41.48:929][ 72]LogHttp: Warning: 000001878B487280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.41.48:929][ 72]LogHttp: Warning: 000001878B487280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.41.48:929][ 72]LogHttp: Warning: 000001878B487280: libcurl info message cache 1 (Closing connection 120)
+[2017.11.08-06.43.49:264][433]LogHttp: Warning: 000001878B486F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.43.49:264][433]LogHttp: Warning: 000001878B486F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.43.49:264][433]LogHttp: Warning: 000001878B486F80: libcurl info message cache 1 (Closing connection 121)
+[2017.11.08-06.45.49:597][794]LogHttp: Warning: 000001878B486680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.45.49:597][794]LogHttp: Warning: 000001878B486680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.45.49:597][794]LogHttp: Warning: 000001878B486680: libcurl info message cache 1 (Closing connection 122)
+[2017.11.08-06.47.49:931][155]LogHttp: Warning: 000001878B486F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.47.49:931][155]LogHttp: Warning: 000001878B486F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.47.49:931][155]LogHttp: Warning: 000001878B486F80: libcurl info message cache 1 (Closing connection 123)
+[2017.11.08-06.49.45:826][637]LogSavePackage: Save=24.70ms
+[2017.11.08-06.49.45:826][637]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Streets5EAE2CE6408BC5F0648A88A62CF19324.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/Streets.uasset'
+[2017.11.08-06.49.45:830][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/Streets.uasset
+[2017.11.08-06.49.46:047][637]LogSavePackage: Save=9.27ms
+[2017.11.08-06.49.46:047][637]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlock518B677540EC27D6D8028DA82F4B411B.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.uasset'
+[2017.11.08-06.49.46:049][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock.uasset
+[2017.11.08-06.49.50:001][689]LogHttp: Warning: 00000187A3A4F400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.49.50:001][689]LogHttp: Warning: 00000187A3A4F400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.49.50:001][689]LogHttp: Warning: 00000187A3A4F400: libcurl info message cache 1 (Closing connection 124)
+[2017.11.08-06.50.46:586][ 31]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx)
+[2017.11.08-06.50.46:595][ 31]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.08-06.50.46:595][ 31]LogFbx: ItemName: Geometry, ItemCount : 3
+[2017.11.08-06.50.46:595][ 31]LogFbx: ItemName: Model, ItemCount : 3
+[2017.11.08-06.50.46:595][ 31]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.08-06.50.46:603][ 31]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-06.50.46:615][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-06.50.51:163][ 31]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-06.50.51:172][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-06.50.51:173][ 31]LogFbx: Warning: Triangulating static mesh Cube.001
+[2017.11.08-06.50.51:227][ 31]LogStaticMesh: Building static mesh DoveManCityBlock_Cube_001...
+[2017.11.08-06.50.51:254][ 31]LogStaticMesh: Built static mesh [0.03s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_001.DoveManCityBlock_Cube_001
+[2017.11.08-06.50.51:262][ 31]LogFbx: Warning: Triangulating static mesh Cube.003
+[2017.11.08-06.50.51:264][ 31]LogStaticMesh: Building static mesh DoveManCityBlock_Cube_003...
+[2017.11.08-06.50.51:265][ 31]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_003.DoveManCityBlock_Cube_003
+[2017.11.08-06.50.51:285][ 31]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.11.08-06.50.51:316][ 31]LogFbx: Warning: Triangulating static mesh Cube
+[2017.11.08-06.50.51:317][ 31]LogStaticMesh: Building static mesh DoveManCityBlock_Cube...
+[2017.11.08-06.50.51:318][ 31]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube.DoveManCityBlock_Cube
+[2017.11.08-06.51.01:775][191]LogSavePackage: Save=180.32ms
+[2017.11.08-06.51.01:775][191]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/White_Collared_Auto435F1C7BB438F8158EA1E8CAF1A5F96F3.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto4.umap'
+[2017.11.08-06.51.01:777][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto4.umap
+[2017.11.08-06.51.01:796][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.241
+[2017.11.08-06.51.01:796][191]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.241
+[2017.11.08-06.51.01:798][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/Material] ([1] browsable assets)...
+[2017.11.08-06.51.01:840][191]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_WhiteCollared/Importer_Folder/NewFolder/Material.Material]
+[2017.11.08-06.51.01:840][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/Material]
+[2017.11.08-06.51.01:863][191]LogSavePackage: Save=20.25ms
+[2017.11.08-06.51.01:863][191]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Material_Auto44918E4B9496DB133F3B959ADDE092D8D.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/Material_Auto4.uasset'
+[2017.11.08-06.51.01:865][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/Material_Auto4.uasset
+[2017.11.08-06.51.01:866][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube] ([1] browsable assets)...
+[2017.11.08-06.51.01:906][191]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube.DoveManCityBlock_Cube]
+[2017.11.08-06.51.01:906][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube]
+[2017.11.08-06.51.01:931][191]LogSavePackage: Save=22.76ms
+[2017.11.08-06.51.01:931][191]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlock_Cube_Auto4DF94D4EA4895427E085809AF1A2357A4.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_Auto4.uasset'
+[2017.11.08-06.51.01:933][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_Auto4.uasset
+[2017.11.08-06.51.01:934][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_001] ([1] browsable assets)...
+[2017.11.08-06.51.01:974][191]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_001.DoveManCityBlock_Cube_001]
+[2017.11.08-06.51.01:974][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_001]
+[2017.11.08-06.51.01:996][191]LogSavePackage: Save=19.07ms
+[2017.11.08-06.51.01:996][191]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlock_Cube_001_Auto4FCA5B65549424C2A5CE8B1A167072870.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_001_Auto4.uasset'
+[2017.11.08-06.51.01:998][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_001_Auto4.uasset
+[2017.11.08-06.51.02:000][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_003] ([1] browsable assets)...
+[2017.11.08-06.51.02:040][191]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_003.DoveManCityBlock_Cube_003]
+[2017.11.08-06.51.02:040][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_003]
+[2017.11.08-06.51.02:062][191]LogSavePackage: Save=20.25ms
+[2017.11.08-06.51.02:063][191]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlock_Cube_003_Auto41915ADA446D24DC5DE8985B23D7808EB.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_003_Auto4.uasset'
+[2017.11.08-06.51.02:064][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/Autosaves/Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube_003_Auto4.uasset
+[2017.11.08-06.51.02:065][191]LogFileHelpers: Auto-saving content packages took 0.268
+[2017.11.08-06.51.42:427][695]Cmd: TRANSACTION UNDO
+[2017.11.08-06.51.42:427][695]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.08-06.51.45:899][760]Cmd: TRANSACTION UNDO
+[2017.11.08-06.51.45:899][760]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.11.08-06.51.46:613][782]Cmd: TRANSACTION UNDO
+[2017.11.08-06.51.46:613][782]LogEditorTransaction: Undo Create Actors
+[2017.11.08-06.51.50:119][817]LogHttp: Warning: 0000018837EE7B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.08-06.51.50:119][817]LogHttp: Warning: 0000018837EE7B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.08-06.51.50:119][817]LogHttp: Warning: 0000018837EE7B80: libcurl info message cache 1 (Closing connection 125)
+[2017.11.08-06.52.00:626][995]LogEditorFactories: Performing atomic reimport of [C:/Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx]
+[2017.11.08-06.52.00:653][995]LogFbx: Loading FBX Scene from C:/Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Presentacion/DoveManCityBlock.fbx
+[2017.11.08-06.52.00:662][995]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.08-06.52.00:699][995]LogFbx: Warning: Triangulating static mesh Cube
+[2017.11.08-06.52.00:711][995]LogStaticMesh: Building static mesh DoveManCityBlock_Cube...
+[2017.11.08-06.52.00:712][995]LogStaticMesh: Built static mesh [0.00s] /Game/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube.DoveManCityBlock_Cube
+[2017.11.08-06.52.00:723][995]LogEditorFactories: -- imported successfully
+[2017.11.08-06.52.23:957][325]LogSavePackage: Save=20.95ms
+[2017.11.08-06.52.23:957][325]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Saved/DoveManCityBlock_Cube05FEDC4946D7032FA960568CD1BF794F.tmp' to '../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube.uasset'
+[2017.11.08-06.52.23:967][325]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/Unreal Projects/Whitecollared/Content/_WhiteCollared/Importer_Folder/NewFolder/DoveManCityBlock_Cube.uasset
+[2017.11.08-06.52.48:448][648]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2017.11.08-06.52.48:448][648]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 3319595008
+	 AvailableVirtual 140733295972352
+	     UsedPhysical 1318989824
+	 PeakUsedPhysical 2321063936
+	      UsedVirtual 2528333824
+	  PeakUsedVirtual 30828011520
+[2017.11.08-06.52.48:448][648]Allocator Stats for TBB: (not implemented)
+[2017.11.08-06.52.48:468][648]LogWindows: Windows GetLastError: The operation completed successfully. (0)
