@@ -13548,3 +13548,898 @@ Exception rethrown at [0]:
 [2017.12.11-22.31.05:085][540]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
 [2017.12.11-22.31.05:085][540]SourceControl:  rewrite Content/_WhiteCollared/Maps/White_Collared_BuiltData.uasset (64%)
 [2017.12.11-22.31.05:094][540]SourceControl: Commited [Testing-1-2-3 03100ec] forgot to destroy puke actor.
+[2017.12.11-22.54.58:179][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.038
+[2017.12.11-22.54.58:182][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss] ([1] browsable assets)...
+[2017.12.11-22.54.58:182][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss]
+[2017.12.11-22.54.58:696][ 35]LogSavePackage: Save=413.10ms
+[2017.12.11-22.54.58:697][ 35]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss_Auto7ECE807B249B2BFBE320A9592270A1985.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto7.uasset'
+[2017.12.11-22.54.58:701][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto7.uasset
+[2017.12.11-22.54.58:701][ 35]LogFileHelpers: Auto-saving content packages took 0.520
+[2017.12.11-22.58.06:768][701]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Pigs/Pig#1/VomitPuddle.fbx)
+[2017.12.11-22.58.06:780][701]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.11-22.58.06:780][701]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.12.11-22.58.06:780][701]LogFbx: ItemName: Model, ItemCount : 1
+[2017.12.11-22.58.06:786][701]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Pigs/Pig#1/VomitPuddle.fbx
+[2017.12.11-22.58.06:795][701]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.58.08:527][701]LogFbx: Loading FBX Scene from ../../../../../../Users/cgd16/Desktop/Desktop/Prototipo - Capstone/Pigs/Pig#1/VomitPuddle.fbx
+[2017.12.11-22.58.08:538][701]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.11-22.58.08:540][701]LogFbx: Warning: Triangulating static mesh Group48419
+[2017.12.11-22.58.08:568][701]LogStaticMesh: Building static mesh VomitPuddle...
+[2017.12.11-22.58.08:578][701]LogStaticMesh: Built static mesh [0.01s] /Game/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle.VomitPuddle
+[2017.12.11-22.59.23:493][761]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-22.59.32:965][951]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.00.38:326][547]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.01.13:152][607]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.02.07:401][819]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::ApplyDamage' [Element not found.]
+[2017.12.11-23.03.02:545][ 54]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.03.25:550][363]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.04.21:815][678]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.05.17:863][867]LogSavePackage: Save=462.49ms
+[2017.12.11-23.05.17:863][867]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_Collared_Auto8E04DF28F4F5308C3E94C9AA95D8C907E.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto8.umap'
+[2017.12.11-23.05.17:866][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto8.umap
+[2017.12.11-23.05.17:874][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.630
+[2017.12.11-23.05.17:874][867]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.630
+[2017.12.11-23.05.17:879][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss] ([1] browsable assets)...
+[2017.12.11-23.05.17:920][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.PigBoss]
+[2017.12.11-23.05.17:921][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss]
+[2017.12.11-23.05.18:449][867]LogSavePackage: Save=476.15ms
+[2017.12.11-23.05.18:449][867]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss_Auto89ADE6763466962CE9FA6409F7A52BB39.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto8.uasset'
+[2017.12.11-23.05.18:480][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto8.uasset
+[2017.12.11-23.05.18:481][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle] ([1] browsable assets)...
+[2017.12.11-23.05.18:523][867]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle.VomitPuddle]
+[2017.12.11-23.05.18:523][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle]
+[2017.12.11-23.05.18:544][867]LogSavePackage: Save=18.99ms
+[2017.12.11-23.05.18:544][867]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/VomitPuddle_Auto8539A2D9E4140463A0DD2C0B93394D376.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle_Auto8.uasset'
+[2017.12.11-23.05.18:546][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle_Auto8.uasset
+[2017.12.11-23.05.18:547][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle] ([1] browsable assets)...
+[2017.12.11-23.05.18:587][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.PukePuddle]
+[2017.12.11-23.05.18:587][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle]
+[2017.12.11-23.05.18:645][867]LogSavePackage: Save=55.57ms
+[2017.12.11-23.05.18:645][867]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PukePuddle_Auto8D26C0A9E485FED692886EEB45239EE4F.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto8.uasset'
+[2017.12.11-23.05.18:648][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto8.uasset
+[2017.12.11-23.05.18:648][867]LogFileHelpers: Auto-saving content packages took 0.771
+[2017.12.11-23.07.05:826][ 17]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.07.38:943][893]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.08.10:054][348]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.08.56:680][601]Cmd: DELETE
+[2017.12.11-23.08.56:680][601]Cmd: ACTOR DELETE
+[2017.12.11-23.08.56:760][601]LogEditorActor: Deleted Actor: PukePuddle_C
+[2017.12.11-23.08.56:793][601]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2017.12.11-23.09.19:554][671]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.09.25:096][932]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.11-23.09.33:835][418]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.09.35:755][470]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.09.36:005][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.09.36:005][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.09.36:005][470]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:09:36 PM)
+[2017.12.11-23.09.36:006][470]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.09.36:036][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030431s)
+[2017.12.11-23.09.36:037][470]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.09.36:038][470]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2017.12.11-23.09.36:038][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.032570s)
+[2017.12.11-23.09.36:078][470]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.09.36:099][470]LogInit: FAudioDevice initialized.
+[2017.12.11-23.09.36:156][470]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.09.36:162][470]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.09.36
+[2017.12.11-23.09.36:164][470]LogWorld: Bringing up level for play took: 0.007196
+[2017.12.11-23.09.36:170][470]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.113
+[2017.12.11-23.09.36:170][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.09.57:724][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.09.58:058][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.14:174][101]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.10.15:078][101]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.10.15:426][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.15:427][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.10.15:427][101]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:10:15 PM)
+[2017.12.11-23.10.15:427][101]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.10.15:435][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008177s)
+[2017.12.11-23.10.15:436][101]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.10.15:436][101]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2017.12.11-23.10.15:436][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009531s)
+[2017.12.11-23.10.15:471][101]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.10.15:490][101]LogInit: FAudioDevice initialized.
+[2017.12.11-23.10.15:537][101]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.10.15:543][101]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.10.15
+[2017.12.11-23.10.15:544][101]LogWorld: Bringing up level for play took: 0.006769
+[2017.12.11-23.10.15:550][101]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.493
+[2017.12.11-23.10.15:550][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.31:140][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.31:455][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.36:561][894]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.10.37:942][914]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.10.38:176][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.38:176][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.10.38:176][914]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:10:38 PM)
+[2017.12.11-23.10.38:177][914]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.10.38:184][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007753s)
+[2017.12.11-23.10.38:185][914]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.10.38:185][914]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2017.12.11-23.10.38:186][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009013s)
+[2017.12.11-23.10.38:222][914]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.10.38:239][914]LogInit: FAudioDevice initialized.
+[2017.12.11-23.10.38:285][914]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.10.38:290][914]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.10.38
+[2017.12.11-23.10.38:291][914]LogWorld: Bringing up level for play took: 0.005161
+[2017.12.11-23.10.38:297][914]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.241
+[2017.12.11-23.10.38:298][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.55:337][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.10.55:648][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.11.01:519][788]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.11.03:075][819]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.11.03:314][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.11.03:315][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.11.03:315][819]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:11:03 PM)
+[2017.12.11-23.11.03:315][819]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.11.03:323][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008015s)
+[2017.12.11-23.11.03:324][819]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.11.03:324][819]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2017.12.11-23.11.03:325][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009643s)
+[2017.12.11-23.11.03:361][819]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.11.03:379][819]LogInit: FAudioDevice initialized.
+[2017.12.11-23.11.03:432][819]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.11.03:437][819]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.11.03
+[2017.12.11-23.11.03:439][819]LogWorld: Bringing up level for play took: 0.006174
+[2017.12.11-23.11.03:444][819]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.388
+[2017.12.11-23.11.03:445][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.11.17:928][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.11.18:244][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.11.45:268][883]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.13.21:943][375]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.14.20:230][780]LogEditorTransaction: Undo Add Key(s)
+[2017.12.11-23.14.20:498][780]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.14.20:498][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.11-23.14.20:513][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.11-23.14.20:538][780]LogMaterial: Missing cached shader map for material PukeMat, compiling. 
+[2017.12.11-23.14.25:888][ 77]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.12.11-23.14.25:888][ 77]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.12.11-23.14.25:888][ 77]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.12.11-23.14.25:888][ 77]MaterialEditorStats: Texture samplers: 2/16
+[2017.12.11-23.15.20:381][336]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.16.46:736][426]LogSavePackage: Save=379.34ms
+[2017.12.11-23.16.46:736][426]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_Collared_Auto93A3FF8DF48880B2EAC0DE9B208D61E5D.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto9.umap'
+[2017.12.11-23.16.46:738][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto9.umap
+[2017.12.11-23.16.46:742][426]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.481
+[2017.12.11-23.16.46:742][426]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.481
+[2017.12.11-23.16.46:746][426]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss] ([1] browsable assets)...
+[2017.12.11-23.16.46:785][426]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.PigBoss]
+[2017.12.11-23.16.46:785][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss]
+[2017.12.11-23.16.47:265][426]LogSavePackage: Save=431.59ms
+[2017.12.11-23.16.47:265][426]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss_Auto9E57359AC4518E4DEC833A7BDC9AB4344.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto9.uasset'
+[2017.12.11-23.16.47:267][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto9.uasset
+[2017.12.11-23.16.47:268][426]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit] ([1] browsable assets)...
+[2017.12.11-23.16.47:306][426]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit.Vomit]
+[2017.12.11-23.16.47:306][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit]
+[2017.12.11-23.16.47:476][426]LogSavePackage: Save=20.10ms
+[2017.12.11-23.16.47:476][426]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Vomit_Auto9FC4159D6456BCA2648BDD182DEC3C151.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit_Auto9.uasset'
+[2017.12.11-23.16.47:478][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit_Auto9.uasset
+[2017.12.11-23.16.47:478][426]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle] ([1] browsable assets)...
+[2017.12.11-23.16.47:516][426]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.PukePuddle]
+[2017.12.11-23.16.47:516][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle]
+[2017.12.11-23.16.47:573][426]LogSavePackage: Save=52.17ms
+[2017.12.11-23.16.47:573][426]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PukePuddle_Auto9DEDEAB504A389C0BD6BF7F8D8D7D5199.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto9.uasset'
+[2017.12.11-23.16.47:575][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto9.uasset
+[2017.12.11-23.16.47:575][426]LogFileHelpers: Auto-saving content packages took 0.831
+[2017.12.11-23.16.51:220][644]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.18.51:081][709]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.18.51:296][709]LogClass: Warning: Type mismatch in Expand_Puke_Puddle_Rise_le_Puddle_4AC6FB5C408202069538D49C5D32A5CC of PigBoss_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
+[2017.12.11-23.20.07:604][905]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.20.08:906][907]LogSavePackage: Save=49.71ms
+[2017.12.11-23.20.08:906][907]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PukePuddle71903DD9488E8A1A1DC0A3A2BA359C52.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.uasset'
+[2017.12.11-23.20.08:916][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.uasset
+[2017.12.11-23.20.14:485][ 77]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.20.14:512][ 78]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.20.14:535][ 79]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.20.14:553][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.20.14:572][ 81]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.20.14:594][ 82]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.11-23.20.35:667][181]LogSavePackage: Save=416.78ms
+[2017.12.11-23.20.35:667][181]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_CollaredA562D542438CF4661133DF93A12B632F.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Maps/White_Collared.umap'
+[2017.12.11-23.20.35:679][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Maps/White_Collared.umap
+[2017.12.11-23.20.35:784][181]LogFileHelpers: Saving map 'White_Collared' took 0.866
+[2017.12.11-23.20.36:381][181]LogSavePackage: Save=505.78ms
+[2017.12.11-23.20.36:382][181]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss92E6FE894D8554FBB94F4691C1F01D40.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset'
+[2017.12.11-23.20.36:395][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset
+[2017.12.11-23.20.36:459][181]LogSavePackage: Save=11.73ms
+[2017.12.11-23.20.36:459][181]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/VomitA76CFED5478F5041E37DFC86D4AB4272.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit.uasset'
+[2017.12.11-23.20.36:500][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/Anims/Vomit.uasset
+[2017.12.11-23.20.36:580][181]LogSavePackage: Save=25.73ms
+[2017.12.11-23.20.36:580][181]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/VomitPuddle5B0BACD249E7A2524EF7A29B40B55685.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle.uasset'
+[2017.12.11-23.20.36:583][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle.uasset
+[2017.12.11-23.23.38:000][284]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.11-23.24.19:139][357]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.28.51:777][831]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.30.59:286][158]LogSavePackage: Save=385.06ms
+[2017.12.11-23.30.59:286][158]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_Collared_Auto04EE5E4064F538FB58173D59090626094.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto0.umap'
+[2017.12.11-23.30.59:342][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto0.umap
+[2017.12.11-23.30.59:346][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.555
+[2017.12.11-23.30.59:346][158]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.555
+[2017.12.11-23.30.59:351][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss] ([1] browsable assets)...
+[2017.12.11-23.30.59:391][158]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.PigBoss]
+[2017.12.11-23.30.59:391][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss]
+[2017.12.11-23.30.59:902][158]LogSavePackage: Save=466.39ms
+[2017.12.11-23.30.59:902][158]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss_Auto0B6C797604928AFE0797D249472289BAB.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto0.uasset'
+[2017.12.11-23.30.59:905][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto0.uasset
+[2017.12.11-23.30.59:905][158]LogFileHelpers: Auto-saving content packages took 0.556
+[2017.12.11-23.31.48:281][ 60]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.33.18:796][194]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.33.20:296][218]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.33.20:624][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.33.20:625][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.33.20:625][218]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:33:20 PM)
+[2017.12.11-23.33.20:625][218]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.33.20:634][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008346s)
+[2017.12.11-23.33.20:634][218]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.33.20:635][218]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2017.12.11-23.33.20:635][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009779s)
+[2017.12.11-23.33.20:671][218]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.33.20:692][218]LogInit: FAudioDevice initialized.
+[2017.12.11-23.33.20:745][218]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.33.20:750][218]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.33.20
+[2017.12.11-23.33.20:752][218]LogWorld: Bringing up level for play took: 0.005913
+[2017.12.11-23.33.20:758][218]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.299
+[2017.12.11-23.33.20:758][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.33.37:484][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.33.37:935][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.33.59:363][991]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.34.01:047][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.34.01:356][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.34.01:356][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.34.01:357][ 27]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:34:01 PM)
+[2017.12.11-23.34.01:357][ 27]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.34.01:365][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008137s)
+[2017.12.11-23.34.01:366][ 27]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.34.01:366][ 27]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2017.12.11-23.34.01:366][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009483s)
+[2017.12.11-23.34.01:403][ 27]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.34.01:422][ 27]LogInit: FAudioDevice initialized.
+[2017.12.11-23.34.01:475][ 27]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.34.01:480][ 27]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.34.01
+[2017.12.11-23.34.01:481][ 27]LogWorld: Bringing up level for play took: 0.006048
+[2017.12.11-23.34.01:487][ 27]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.431
+[2017.12.11-23.34.01:487][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.34.06:618][178]Set new viewmode: Wireframe
+[2017.12.11-23.34.16:848][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.34.17:242][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.35.00:054][ 94]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.35.01:178][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.35.01:492][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.35.01:492][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.35.01:492][ 95]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:35:01 PM)
+[2017.12.11-23.35.01:492][ 95]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.35.01:501][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008312s)
+[2017.12.11-23.35.01:502][ 95]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.35.01:502][ 95]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2017.12.11-23.35.01:502][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009882s)
+[2017.12.11-23.35.01:539][ 95]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.35.01:558][ 95]LogInit: FAudioDevice initialized.
+[2017.12.11-23.35.01:606][ 95]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.35.01:613][ 95]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.35.01
+[2017.12.11-23.35.01:614][ 95]LogWorld: Bringing up level for play took: 0.006883
+[2017.12.11-23.35.01:620][ 95]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.563
+[2017.12.11-23.35.01:620][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.35.11:213][408]Set new viewmode: Wireframe
+[2017.12.11-23.35.18:476][793]Set new viewmode: Lit
+[2017.12.11-23.35.19:651][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.35.20:040][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.35.54:493][751]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.35.56:045][781]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.35.56:379][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.35.56:379][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.35.56:379][781]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:35:56 PM)
+[2017.12.11-23.35.56:380][781]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.35.56:388][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007921s)
+[2017.12.11-23.35.56:388][781]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.35.56:389][781]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2017.12.11-23.35.56:389][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009266s)
+[2017.12.11-23.35.56:426][781]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.35.56:444][781]LogInit: FAudioDevice initialized.
+[2017.12.11-23.35.56:491][781]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.35.56:497][781]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.35.56
+[2017.12.11-23.35.56:499][781]LogWorld: Bringing up level for play took: 0.006950
+[2017.12.11-23.35.56:505][781]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.551
+[2017.12.11-23.35.56:506][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.36.15:918][380]Set new viewmode: Wireframe
+[2017.12.11-23.36.16:685][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.36.17:066][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.36.41:981][849]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.36.43:204][856]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.36.43:528][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.36.43:529][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.36.43:529][856]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:36:43 PM)
+[2017.12.11-23.36.43:529][856]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.36.43:537][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007828s)
+[2017.12.11-23.36.43:538][856]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.36.43:538][856]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2017.12.11-23.36.43:538][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009169s)
+[2017.12.11-23.36.43:573][856]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.36.43:591][856]LogInit: FAudioDevice initialized.
+[2017.12.11-23.36.43:639][856]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.36.43:644][856]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.36.43
+[2017.12.11-23.36.43:645][856]LogWorld: Bringing up level for play took: 0.005314
+[2017.12.11-23.36.43:650][856]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.594
+[2017.12.11-23.36.43:651][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.36.48:079][998]Set new viewmode: Wireframe
+[2017.12.11-23.37.07:667][925]Set new viewmode: Lit
+[2017.12.11-23.37.09:328][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.37.09:737][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.38.40:966][974]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.38.42:408][996]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.38.42:755][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.38.42:755][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.38.42:755][996]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:38:42 PM)
+[2017.12.11-23.38.42:755][996]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.38.42:764][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008531s)
+[2017.12.11-23.38.42:765][996]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.38.42:765][996]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2017.12.11-23.38.42:766][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010306s)
+[2017.12.11-23.38.42:801][996]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.38.42:821][996]LogInit: FAudioDevice initialized.
+[2017.12.11-23.38.42:873][996]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.38.42:878][996]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.38.42
+[2017.12.11-23.38.42:879][996]LogWorld: Bringing up level for play took: 0.004873
+[2017.12.11-23.38.42:884][996]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.172
+[2017.12.11-23.38.42:885][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.38.58:066][486]Set new viewmode: Wireframe
+[2017.12.11-23.38.59:298][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.38.59:682][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.39.55:097][695]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.39.56:607][719]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.39.56:918][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.39.56:918][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.39.56:918][719]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:39:56 PM)
+[2017.12.11-23.39.56:918][719]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.39.56:927][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008128s)
+[2017.12.11-23.39.56:928][719]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.39.56:928][719]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2017.12.11-23.39.56:928][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009620s)
+[2017.12.11-23.39.56:965][719]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.39.56:983][719]LogInit: FAudioDevice initialized.
+[2017.12.11-23.39.57:031][719]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.39.57:037][719]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.39.57
+[2017.12.11-23.39.57:038][719]LogWorld: Bringing up level for play took: 0.005984
+[2017.12.11-23.39.57:044][719]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.012
+[2017.12.11-23.39.57:045][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.40.12:639][203]Set new viewmode: Wireframe
+[2017.12.11-23.40.14:821][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.40.15:208][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.42.38:066][679]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.42.54:794][588]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.42.56:183][604]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.42.56:541][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.42.56:541][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.42.56:542][604]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:42:56 PM)
+[2017.12.11-23.42.56:542][604]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.42.56:550][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008262s)
+[2017.12.11-23.42.56:551][604]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.42.56:551][604]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2017.12.11-23.42.56:552][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009670s)
+[2017.12.11-23.42.56:589][604]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.42.56:609][604]LogInit: FAudioDevice initialized.
+[2017.12.11-23.42.56:658][604]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.42.56:662][604]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.42.56
+[2017.12.11-23.42.56:663][604]LogWorld: Bringing up level for play took: 0.004619
+[2017.12.11-23.42.56:669][604]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.388
+[2017.12.11-23.42.56:669][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.43.10:999][ 61]Set new viewmode: Wireframe
+[2017.12.11-23.43.14:938][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.43.15:325][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.43.52:190][276]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.43.53:337][279]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.43.53:671][279]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.43.53:671][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.43.53:672][279]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:43:53 PM)
+[2017.12.11-23.43.53:672][279]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.43.53:680][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008410s)
+[2017.12.11-23.43.53:681][279]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.43.53:682][279]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2017.12.11-23.43.53:682][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010031s)
+[2017.12.11-23.43.53:720][279]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.43.53:739][279]LogInit: FAudioDevice initialized.
+[2017.12.11-23.43.53:790][279]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.43.53:796][279]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.43.53
+[2017.12.11-23.43.53:797][279]LogWorld: Bringing up level for play took: 0.006227
+[2017.12.11-23.43.53:803][279]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.746
+[2017.12.11-23.43.53:803][279]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.44.09:039][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.44.09:420][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.46.39:357][276]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.46.40:799][293]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.46.41:142][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.46.41:142][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.46.41:143][293]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:46:41 PM)
+[2017.12.11-23.46.41:143][293]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.46.41:151][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008206s)
+[2017.12.11-23.46.41:152][293]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.46.41:152][293]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2017.12.11-23.46.41:153][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009647s)
+[2017.12.11-23.46.41:188][293]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.46.41:207][293]LogInit: FAudioDevice initialized.
+[2017.12.11-23.46.41:253][293]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.46.41:259][293]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.46.41
+[2017.12.11-23.46.41:260][293]LogWorld: Bringing up level for play took: 0.006220
+[2017.12.11-23.46.41:265][293]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.209
+[2017.12.11-23.46.41:266][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.46.56:047][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.46.56:481][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.47.31:678][783]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.47.32:632][783]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.47.33:070][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.47.33:070][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.47.33:070][783]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:47:33 PM)
+[2017.12.11-23.47.33:071][783]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.47.33:079][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008035s)
+[2017.12.11-23.47.33:079][783]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.47.33:080][783]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2017.12.11-23.47.33:080][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009421s)
+[2017.12.11-23.47.33:115][783]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.47.33:133][783]LogInit: FAudioDevice initialized.
+[2017.12.11-23.47.33:184][783]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.47.33:190][783]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.47.33
+[2017.12.11-23.47.33:191][783]LogWorld: Bringing up level for play took: 0.006574
+[2017.12.11-23.47.33:196][783]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.14
+[2017.12.11-23.47.33:197][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.47.48:601][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.47.49:035][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.49.22:402][148]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.49.31:197][448]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:197][448]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:199][448]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:200][448]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:202][448]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:207][448]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:214][449]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:216][449]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:223][449]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:453][463]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:455][463]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:457][463]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:459][463]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.49.31:465][463]LogUObjectBase: Warning: Object is not registered
+[2017.12.11-23.50.05:125][453]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.50.06:649][478]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.50.07:016][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.50.07:016][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.50.07:017][478]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:50:07 PM)
+[2017.12.11-23.50.07:017][478]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.50.07:025][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008253s)
+[2017.12.11-23.50.07:026][478]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.50.07:026][478]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2017.12.11-23.50.07:026][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009589s)
+[2017.12.11-23.50.07:064][478]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.50.07:083][478]LogInit: FAudioDevice initialized.
+[2017.12.11-23.50.07:134][478]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.50.07:139][478]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.50.07
+[2017.12.11-23.50.07:140][478]LogWorld: Bringing up level for play took: 0.005676
+[2017.12.11-23.50.07:146][478]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.09
+[2017.12.11-23.50.07:147][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.50.10:689][585]Set new viewmode: Wireframe
+[2017.12.11-23.50.27:728][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.50.28:145][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.51.26:434][677]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.51.37:147][236]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.51.38:494][249]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.51.38:862][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.51.38:862][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.51.38:862][249]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:51:38 PM)
+[2017.12.11-23.51.38:863][249]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.51.38:871][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008316s)
+[2017.12.11-23.51.38:872][249]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.51.38:872][249]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2017.12.11-23.51.38:872][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009757s)
+[2017.12.11-23.51.38:907][249]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.51.38:925][249]LogInit: FAudioDevice initialized.
+[2017.12.11-23.51.38:970][249]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.51.38:975][249]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.51.38
+[2017.12.11-23.51.38:977][249]LogWorld: Bringing up level for play took: 0.005999
+[2017.12.11-23.51.38:982][249]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.074
+[2017.12.11-23.51.38:983][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.51.48:024][522]Set new viewmode: Wireframe
+[2017.12.11-23.51.56:305][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.51.56:730][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.52.01:574][187]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.52.01:624][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.52.01:625][187]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.11-23.52.01:739][187]LogPlayLevel: [PlayLevel] Compiling PigBoss before play...
+[2017.12.11-23.52.02:569][187]LogPlayLevel: PlayLevel: Blueprint regeneration took 944 ms (1 blueprints)
+[2017.12.11-23.52.02:569][187]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:52:02 PM)
+[2017.12.11-23.52.02:570][187]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.52.02:579][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009417s)
+[2017.12.11-23.52.02:580][187]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.52.02:580][187]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2017.12.11-23.52.02:580][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010673s)
+[2017.12.11-23.52.02:614][187]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.52.02:632][187]LogInit: FAudioDevice initialized.
+[2017.12.11-23.52.02:700][187]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.52.02:705][187]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.52.02
+[2017.12.11-23.52.02:706][187]LogWorld: Bringing up level for play took: 0.005605
+[2017.12.11-23.52.02:723][187]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.667
+[2017.12.11-23.52.02:724][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.52.08:223][349]Set new viewmode: Wireframe
+[2017.12.11-23.52.17:697][832]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.52.17:782][832]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.54.04:189][739]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.57.02:910][212]BlueprintLog: New page: Compile PukePuddle
+[2017.12.11-23.57.05:080][305]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.57.05:135][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.57.05:136][305]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.11-23.57.05:255][305]LogPlayLevel: [PlayLevel] Compiling PigBoss before play...
+[2017.12.11-23.57.06:247][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 1111 ms (1 blueprints)
+[2017.12.11-23.57.06:248][305]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:57:06 PM)
+[2017.12.11-23.57.06:248][305]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.57.06:256][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008567s)
+[2017.12.11-23.57.06:257][305]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.57.06:258][305]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2017.12.11-23.57.06:258][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010012s)
+[2017.12.11-23.57.06:292][305]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.57.06:311][305]LogInit: FAudioDevice initialized.
+[2017.12.11-23.57.06:362][305]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.57.06:367][305]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.57.06
+[2017.12.11-23.57.06:368][305]LogWorld: Bringing up level for play took: 0.005524
+[2017.12.11-23.57.06:376][305]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.319
+[2017.12.11-23.57.06:376][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.57.11:217][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.57.11:330][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.58.27:491][662]BlueprintLog: New page: Compile PigBoss
+[2017.12.11-23.58.30:027][676]LogSavePackage: Save=476.73ms
+[2017.12.11-23.58.30:027][676]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBossBA0C89D24327D24DA51458A14B768DBE.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset'
+[2017.12.11-23.58.30:084][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset
+[2017.12.11-23.58.30:449][694]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.11-23.58.30:807][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.58.30:807][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-23.58.30:807][694]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 3:58:30 PM)
+[2017.12.11-23.58.30:807][694]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.11-23.58.30:816][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008302s)
+[2017.12.11-23.58.30:817][694]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.11-23.58.30:817][694]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2017.12.11-23.58.30:817][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009896s)
+[2017.12.11-23.58.30:855][694]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-23.58.30:874][694]LogInit: FAudioDevice initialized.
+[2017.12.11-23.58.30:930][694]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.11-23.58.30:936][694]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-19.58.30
+[2017.12.11-23.58.30:937][694]LogWorld: Bringing up level for play took: 0.006785
+[2017.12.11-23.58.30:943][694]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared -0.114
+[2017.12.11-23.58.30:943][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.58.44:599][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.58.45:032][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.11-23.59.46:585][285]LogSavePackage: Save=431.71ms
+[2017.12.11-23.59.46:585][285]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_Collared_Auto1A252D3DB45A86E8BFC48399C9AD7BE36.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto1.umap'
+[2017.12.11-23.59.46:588][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto1.umap
+[2017.12.11-23.59.46:592][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.535
+[2017.12.11-23.59.46:592][285]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.535
+[2017.12.11-23.59.46:596][285]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle] ([1] browsable assets)...
+[2017.12.11-23.59.46:640][285]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.PukePuddle]
+[2017.12.11-23.59.46:640][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle]
+[2017.12.11-23.59.46:854][285]LogSavePackage: Save=80.37ms
+[2017.12.11-23.59.46:854][285]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PukePuddle_Auto10E5BEA8445771D94D39CE38EDF98FFF4.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto1.uasset'
+[2017.12.11-23.59.46:856][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto1.uasset
+[2017.12.11-23.59.46:856][285]LogFileHelpers: Auto-saving content packages took 0.262
+[2017.12.12-00.04.32:743][651]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.04.33:955][654]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.04.34:349][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.04.34:349][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.04.34:349][654]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:04:34 PM)
+[2017.12.12-00.04.34:349][654]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.04.34:358][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008318s)
+[2017.12.12-00.04.34:359][654]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.04.34:359][654]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2017.12.12-00.04.34:359][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009754s)
+[2017.12.12-00.04.34:398][654]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.04.34:417][654]LogInit: FAudioDevice initialized.
+[2017.12.12-00.04.34:467][654]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.04.34:473][654]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.04.34
+[2017.12.12-00.04.34:474][654]LogWorld: Bringing up level for play took: 0.006682
+[2017.12.12-00.04.34:480][654]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.424
+[2017.12.12-00.04.34:481][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.04.50:590][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.04.51:054][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.05.42:783][199]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.05.45:467][292]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.05.45:849][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.05.45:850][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.05.45:850][292]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:05:45 PM)
+[2017.12.12-00.05.45:850][292]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.05.45:857][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007258s)
+[2017.12.12-00.05.45:858][292]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.05.45:859][292]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2017.12.12-00.05.45:859][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.008769s)
+[2017.12.12-00.05.45:892][292]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.05.45:909][292]LogInit: FAudioDevice initialized.
+[2017.12.12-00.05.45:957][292]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.05.45:961][292]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.05.45
+[2017.12.12-00.05.45:962][292]LogWorld: Bringing up level for play took: 0.005388
+[2017.12.12-00.05.45:968][292]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.912
+[2017.12.12-00.05.45:968][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.05.50:080][429]Set new viewmode: Wireframe
+[2017.12.12-00.06.05:784][293]Set new viewmode: Lit
+[2017.12.12-00.06.07:115][336]Set new viewmode: Lit
+[2017.12.12-00.06.07:811][358]Set new viewmode: Wireframe
+[2017.12.12-00.06.11:757][576]Set new viewmode: Lit
+[2017.12.12-00.06.13:440][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.06.13:900][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.06.29:764][533]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.06.31:312][557]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.06.31:733][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.06.31:733][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.06.31:734][557]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:06:31 PM)
+[2017.12.12-00.06.31:734][557]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.06.31:742][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008120s)
+[2017.12.12-00.06.31:743][557]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.06.31:743][557]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2017.12.12-00.06.31:743][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009440s)
+[2017.12.12-00.06.31:783][557]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.06.31:801][557]LogInit: FAudioDevice initialized.
+[2017.12.12-00.06.31:855][557]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.06.31:860][557]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.06.31
+[2017.12.12-00.06.31:861][557]LogWorld: Bringing up level for play took: 0.006088
+[2017.12.12-00.06.31:867][557]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.811
+[2017.12.12-00.06.31:868][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.06.39:709][818]Set new viewmode: Wireframe
+[2017.12.12-00.06.47:033][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.06.47:627][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.08.01:195][375]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.08.01:245][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.08.01:245][375]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.12-00.08.01:347][375]LogPlayLevel: [PlayLevel] Compiling PigBoss before play...
+[2017.12.12-00.08.02:141][375]LogPlayLevel: PlayLevel: Blueprint regeneration took 895 ms (1 blueprints)
+[2017.12.12-00.08.02:142][375]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:08:02 PM)
+[2017.12.12-00.08.02:142][375]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.08.02:151][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008521s)
+[2017.12.12-00.08.02:152][375]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.08.02:152][375]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2017.12.12-00.08.02:152][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009834s)
+[2017.12.12-00.08.02:186][375]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.08.02:204][375]LogInit: FAudioDevice initialized.
+[2017.12.12-00.08.02:276][375]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.08.02:281][375]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.08.02
+[2017.12.12-00.08.02:282][375]LogWorld: Bringing up level for play took: 0.005595
+[2017.12.12-00.08.02:298][375]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.242
+[2017.12.12-00.08.02:299][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.08.05:279][460]Set new viewmode: Wireframe
+[2017.12.12-00.08.46:220][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.08.46:309][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.09.43:843][705]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.09.45:430][723]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.09.45:796][723]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.09.45:797][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.09.45:797][723]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:09:45 PM)
+[2017.12.12-00.09.45:797][723]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.09.45:805][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007460s)
+[2017.12.12-00.09.45:806][723]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.09.45:806][723]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2017.12.12-00.09.45:806][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009193s)
+[2017.12.12-00.09.45:843][723]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.09.45:861][723]LogInit: FAudioDevice initialized.
+[2017.12.12-00.09.45:908][723]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.09.45:913][723]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.09.45
+[2017.12.12-00.09.45:914][723]LogWorld: Bringing up level for play took: 0.005383
+[2017.12.12-00.09.45:920][723]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.863
+[2017.12.12-00.09.45:920][723]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.10.07:162][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.10.07:625][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.10.18:071][ 17]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.10.19:255][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.10.19:649][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.10.19:649][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.10.19:650][ 18]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:10:19 PM)
+[2017.12.12-00.10.19:650][ 18]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.10.19:659][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009225s)
+[2017.12.12-00.10.19:660][ 18]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.10.19:660][ 18]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2017.12.12-00.10.19:660][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.010689s)
+[2017.12.12-00.10.19:703][ 18]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.10.19:723][ 18]LogInit: FAudioDevice initialized.
+[2017.12.12-00.10.19:769][ 18]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.10.19:774][ 18]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.10.19
+[2017.12.12-00.10.19:775][ 18]LogWorld: Bringing up level for play took: 0.005149
+[2017.12.12-00.10.19:781][ 18]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.724
+[2017.12.12-00.10.19:781][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.10.37:439][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.10.37:904][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.12.22:054][235]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.12.22:462][235]LogBlueprint: Error: [Compiler PigBoss] Could not find a function named "let it grow!" in 'PigBoss_C'.
+Make sure 'PigBoss_C' has been compiled for  Let It Grow!
+[2017.12.12-00.12.22:592][235]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.12-00.12.22:594][235]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.12-00.12.22:595][235]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.12-00.12.22:596][235]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/_WhiteCollared/Mesh_Tester/PigBoss/Anims/NEW_Pigboss_Anims.NEW_Pigboss_Anims_C:ExecuteUbergraph_NEW_Pigboss_Anims'!
+[2017.12.12-00.12.23:565][235]LogBlueprint: Warning: [Compiler PigBoss] [3764.61] Compile of PigBoss failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,510 ms] (/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.PigBoss)
+[2017.12.12-00.12.23:567][235]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.12.23:670][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.12.23:670][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.12.30:419][492]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.12.30:618][492]LogBlueprint: Error: [Compiler PigBoss] Could not find a function named "let it grow!" in 'PigBoss_C'.
+Make sure 'PigBoss_C' has been compiled for  Let It Grow!
+[2017.12.12-00.12.30:851][492]LogBlueprint: Warning: [Compiler PigBoss] [3771.89] Compile of PigBoss failed. 1 Fatal Issue(s) 0 Warning(s) [in 432 ms] (/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.PigBoss)
+[2017.12.12-00.12.46:264][179]BlueprintLog: New page: Compile PukePuddle
+[2017.12.12-00.13.10:702][535]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.13.12:879][596]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.13.13:248][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.13.13:249][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.13.13:249][596]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:13:13 PM)
+[2017.12.12-00.13.13:249][596]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.13.13:257][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008143s)
+[2017.12.12-00.13.13:258][596]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.13.13:258][596]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2017.12.12-00.13.13:259][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009676s)
+[2017.12.12-00.13.13:296][596]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.13.13:315][596]LogInit: FAudioDevice initialized.
+[2017.12.12-00.13.13:365][596]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.13.13:372][596]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.13.13
+[2017.12.12-00.13.13:373][596]LogWorld: Bringing up level for play took: 0.006743
+[2017.12.12-00.13.13:379][596]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.323
+[2017.12.12-00.13.13:380][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.13.30:571][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.13.31:025][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.13.46:190][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.13.46:238][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.13.46:238][ 28]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.12-00.13.46:357][ 28]LogPlayLevel: [PlayLevel] Compiling PigBoss before play...
+[2017.12.12-00.13.47:209][ 28]LogPlayLevel: PlayLevel: Blueprint regeneration took 970 ms (1 blueprints)
+[2017.12.12-00.13.47:209][ 28]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:13:47 PM)
+[2017.12.12-00.13.47:209][ 28]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.13.47:217][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007889s)
+[2017.12.12-00.13.47:218][ 28]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.13.47:218][ 28]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2017.12.12-00.13.47:218][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009131s)
+[2017.12.12-00.13.47:254][ 28]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.13.47:274][ 28]LogInit: FAudioDevice initialized.
+[2017.12.12-00.13.47:341][ 28]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.13.47:347][ 28]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.13.47
+[2017.12.12-00.13.47:348][ 28]LogWorld: Bringing up level for play took: 0.006382
+[2017.12.12-00.13.47:365][ 28]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.309
+[2017.12.12-00.13.47:366][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.03:108][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.03:215][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.10:496][969]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.14.10:858][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.10:858][969]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.12-00.14.10:965][969]LogPlayLevel: [PlayLevel] Compiling PigBoss before play...
+[2017.12.12-00.14.11:979][969]LogPlayLevel: PlayLevel: Blueprint regeneration took 1121 ms (1 blueprints)
+[2017.12.12-00.14.11:979][969]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:14:11 PM)
+[2017.12.12-00.14.11:979][969]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.14.11:988][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008477s)
+[2017.12.12-00.14.11:989][969]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.14.11:989][969]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2017.12.12-00.14.11:989][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009934s)
+[2017.12.12-00.14.12:026][969]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.14.12:043][969]LogInit: FAudioDevice initialized.
+[2017.12.12-00.14.12:089][969]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.14.12:094][969]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.14.12
+[2017.12.12-00.14.12:095][969]LogWorld: Bringing up level for play took: 0.005897
+[2017.12.12-00.14.12:101][969]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.045
+[2017.12.12-00.14.12:102][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.28:260][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.28:405][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.14.57:121][166]LogSavePackage: Save=497.14ms
+[2017.12.12-00.14.57:122][166]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_Collared_Auto2221F52D34ADA774B5ADFBEB373C45CF3.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto2.umap'
+[2017.12.12-00.14.57:123][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Maps/White_Collared_Auto2.umap
+[2017.12.12-00.14.57:127][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_WhiteCollared/Maps/White_Collared' took 0.647
+[2017.12.12-00.14.57:127][166]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.647
+[2017.12.12-00.14.57:132][166]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss] ([1] browsable assets)...
+[2017.12.12-00.14.57:173][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.PigBoss]
+[2017.12.12-00.14.57:173][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss]
+[2017.12.12-00.14.57:769][166]LogSavePackage: Save=538.34ms
+[2017.12.12-00.14.57:769][166]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss_Auto27385CA4D4CBAF421ECDD39A8562F1A01.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto2.uasset'
+[2017.12.12-00.14.57:771][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss_Auto2.uasset
+[2017.12.12-00.14.57:772][166]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle] ([1] browsable assets)...
+[2017.12.12-00.14.57:812][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.PukePuddle]
+[2017.12.12-00.14.57:812][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle]
+[2017.12.12-00.14.58:003][166]LogSavePackage: Save=136.34ms
+[2017.12.12-00.14.58:003][166]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PukePuddle_Auto2D1555AD34AEB80FDD9972FBC075F49A4.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto2.uasset'
+[2017.12.12-00.14.58:006][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/Autosaves/Game/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle_Auto2.uasset
+[2017.12.12-00.14.58:006][166]LogFileHelpers: Auto-saving content packages took 0.876
+[2017.12.12-00.15.08:832][568]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.15.09:240][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.15.09:241][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.15.09:241][568]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:15:09 PM)
+[2017.12.12-00.15.09:241][568]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.15.09:249][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007472s)
+[2017.12.12-00.15.09:250][568]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.15.09:250][568]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2017.12.12-00.15.09:250][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009404s)
+[2017.12.12-00.15.09:285][568]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.15.09:302][568]LogInit: FAudioDevice initialized.
+[2017.12.12-00.15.09:340][568]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.15.09:345][568]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.15.09
+[2017.12.12-00.15.09:346][568]LogWorld: Bringing up level for play took: 0.005375
+[2017.12.12-00.15.09:349][568]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.293
+[2017.12.12-00.15.09:350][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.15.28:063][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.15.28:137][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.15.53:363][307]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.16.22:538][845]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.16.23:784][852]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.16.24:159][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.16.24:160][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.16.24:160][852]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:16:24 PM)
+[2017.12.12-00.16.24:160][852]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.16.24:168][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008047s)
+[2017.12.12-00.16.24:169][852]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.16.24:169][852]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2017.12.12-00.16.24:169][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009417s)
+[2017.12.12-00.16.24:205][852]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.16.24:223][852]LogInit: FAudioDevice initialized.
+[2017.12.12-00.16.24:269][852]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.16.24:275][852]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.16.24
+[2017.12.12-00.16.24:276][852]LogWorld: Bringing up level for play took: 0.006635
+[2017.12.12-00.16.24:282][852]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.226
+[2017.12.12-00.16.24:283][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.16.31:282][ 87]LogBlueprintUserMessages: [Pig_1] 1
+[2017.12.12-00.16.47:838][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.16.48:286][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.16.57:371][124]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.16.58:994][151]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.16.59:388][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.16.59:388][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.16.59:388][151]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:16:59 PM)
+[2017.12.12-00.16.59:388][151]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.16.59:397][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008120s)
+[2017.12.12-00.16.59:397][151]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.16.59:398][151]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2017.12.12-00.16.59:398][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009338s)
+[2017.12.12-00.16.59:432][151]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.16.59:450][151]LogInit: FAudioDevice initialized.
+[2017.12.12-00.16.59:504][151]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.16.59:509][151]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.16.59
+[2017.12.12-00.16.59:510][151]LogWorld: Bringing up level for play took: 0.005294
+[2017.12.12-00.16.59:517][151]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 0.461
+[2017.12.12-00.16.59:517][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.17.19:417][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.17.19:868][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.17.39:240][919]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.17.39:291][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.17.39:292][919]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.12-00.17.39:409][919]LogPlayLevel: [PlayLevel] Compiling PigBoss before play...
+[2017.12.12-00.17.40:255][919]LogPlayLevel: PlayLevel: Blueprint regeneration took 962 ms (1 blueprints)
+[2017.12.12-00.17.40:255][919]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:17:40 PM)
+[2017.12.12-00.17.40:255][919]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.17.40:264][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008284s)
+[2017.12.12-00.17.40:264][919]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.17.40:265][919]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2017.12.12-00.17.40:265][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009694s)
+[2017.12.12-00.17.40:298][919]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.17.40:317][919]LogInit: FAudioDevice initialized.
+[2017.12.12-00.17.40:384][919]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.17.40:390][919]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.17.40
+[2017.12.12-00.17.40:391][919]LogWorld: Bringing up level for play took: 0.006086
+[2017.12.12-00.17.40:408][919]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.351
+[2017.12.12-00.17.40:408][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.17.59:458][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.17.59:563][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.18.05:876][904]BlueprintLog: New page: Compile PigBoss
+[2017.12.12-00.18.07:623][931]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-00.18.08:001][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.18.08:001][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-00.18.08:001][931]PIE: New page: PIE session: White_Collared (Dec 11, 2017, 4:18:08 PM)
+[2017.12.12-00.18.08:002][931]LogPlayLevel: Creating play world package: /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared
+[2017.12.12-00.18.08:009][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007752s)
+[2017.12.12-00.18.08:010][931]LogAIModule: Creating AISystem for world White_Collared
+[2017.12.12-00.18.08:011][931]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2017.12.12-00.18.08:011][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_WhiteCollared/Maps/White_Collared.White_Collared to /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared (0.009115s)
+[2017.12.12-00.18.08:048][931]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-00.18.08:067][931]LogInit: FAudioDevice initialized.
+[2017.12.12-00.18.08:116][931]LogLoad: Game class is 'WhiteCollar_GM_C'
+[2017.12.12-00.18.08:120][931]LogWorld: Bringing World /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared.White_Collared up for play (max tick rate 60) at 2017.12.11-20.18.08
+[2017.12.12-00.18.08:121][931]LogWorld: Bringing up level for play took: 0.005277
+[2017.12.12-00.18.08:128][931]PIE: Play in editor start time for /Game/_WhiteCollared/Maps/UEDPIE_0_White_Collared 1.072
+[2017.12.12-00.18.08:129][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.18.31:217][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.18.31:671][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel' has LevelScriptBlueprint '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared' with GeneratedClass '/Game/_WhiteCollared/Maps/White_Collared.White_Collared_C' with ClassGeneratedBy '/Game/_WhiteCollared/Maps/White_Collared.White_Collared:PersistentLevel.White_Collared'
+[2017.12.12-00.19.52:984][666]LogSavePackage: Save=392.67ms
+[2017.12.12-00.19.52:984][666]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/White_Collared85667F30408566C3AA0290A46BA065F0.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Maps/White_Collared.umap'
+[2017.12.12-00.19.53:011][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Maps/White_Collared.umap
+[2017.12.12-00.19.53:075][666]LogFileHelpers: Saving map 'White_Collared' took 1.019
+[2017.12.12-00.19.53:632][666]LogSavePackage: Save=470.23ms
+[2017.12.12-00.19.53:632][666]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PigBoss5409533C4F7133A36E1BDEB06C68EF9F.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset'
+[2017.12.12-00.19.53:638][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset
+[2017.12.12-00.19.53:728][666]LogSavePackage: Save=40.23ms
+[2017.12.12-00.19.53:728][666]LogSavePackage: Moving '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Saved/PukePuddle4E9C99D74FCFECEFF98DF1893455DE4F.tmp' to '../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.uasset'
+[2017.12.12-00.19.53:735][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/cgd16/Documents/GitHub/WhiteCollared/Content/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.uasset
+[2017.12.12-00.19.59:361][882]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.12.12-00.20.19:402][882]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.12-00.20.19:966][882]SourceControl: [Testing-1-2-3 9fe0263] Puke Puddle Spawns and DeSpawns
+[2017.12.12-00.20.19:966][882]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2017.12.12-00.20.19:966][882]SourceControl:  rewrite Content/_WhiteCollared/Mesh_Tester/PigBoss/PigBoss.uasset (72%)
+[2017.12.12-00.20.19:966][882]SourceControl:  create mode 100644 Content/_WhiteCollared/Mesh_Tester/PigBoss/PukePuddle.uasset
+[2017.12.12-00.20.19:966][882]SourceControl:  create mode 100644 Content/_WhiteCollared/Mesh_Tester/PigBoss/VomitPuddle.uasset
+[2017.12.12-00.20.19:975][882]SourceControl: Commited [Testing-1-2-3 9fe0263] Puke Puddle Spawns and DeSpawns.
